@@ -1,0 +1,13 @@
+const fs=require('fs'),path=require('path'),http=require('http'),{spawnSync}=require('child_process');
+const puppeteer=require('puppeteer-core');const root=__dirname;
+function run(args){const p=spawnSync('ffmpeg',['-hide_banner','-y',...args],{stdio:'inherit'});if(p.status!==0)throw Error('FFmpeg failed');}
+(async()=>{fs.mkdirSync(path.join(root,'frames'),{recursive:true});const types={'.html':'text/html','.js':'text/javascript','.ttf':'font/ttf'};
+const server=http.createServer((req,res)=>{const name=path.resolve(root,'.'+decodeURIComponent(new URL(req.url,'http://localhost').pathname));if(!name.startsWith(root+path.sep)){res.writeHead(403).end();return}fs.readFile(name,(err,data)=>{if(err){res.writeHead(404).end();return}res.setHeader('Content-Type',types[path.extname(name)]||'application/octet-stream');res.end(data)})});await new Promise(r=>server.listen(0,'127.0.0.1',r));
+const browser=await puppeteer.launch({executablePath:process.env.CHROME_PATH||'/usr/bin/chromium',headless:true,args:['--no-sandbox','--disable-dev-shm-usage','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader']});const page=await browser.newPage();await page.setViewport({width:1080,height:1920,deviceScaleFactor:1});await page.goto(`http://127.0.0.1:${server.address().port}/scene.html`);await page.waitForFunction(()=>window.__sceneReady,{timeout:60000});
+for(let i=0;i<450;i++){await page.evaluate(t=>window.renderAt(t),i/30);await page.screenshot({path:path.join(root,'frames',String(i).padStart(5,'0')+'.png')});if(i%30===0)console.log(`Frame ${i}/450`)}await browser.close();await new Promise(r=>server.close(r));
+const sequence=path.join(root,'assembly','sequence.mp4'),source=path.join(root,'assembly','source.mp4'),full=path.join(root,'Karma-ThreeJS-narrated-short.mp4');
+run(['-framerate','30','-i',path.join(root,'frames','%05d.png'),'-c:v','libx264','-crf','16','-preset','slow','-pix_fmt','yuv420p','-colorspace','bt709','-color_trc','bt709','-color_primaries','bt709','-movflags','+faststart',sequence]);
+// Equivalent of the included HyperFrames assembly: cinematic starts at 9 1/3 s, with a .45 s dissolve.
+run(['-i',source,'-i',sequence,'-filter_complex_threads','4','-filter_complex','[0:v]trim=duration=9.8,setpts=PTS-STARTPTS,fps=30,settb=AVTB,format=yuv420p[a];[1:v]setpts=PTS-STARTPTS,fps=30,settb=AVTB,format=yuv420p[b];[a][b]xfade=transition=fade:duration=0.45:offset=9.333333[v]','-map','[v]','-map','0:a:0','-c:v','libx264','-crf','17','-preset','fast','-threads','4','-c:a','copy','-t','24.333333','-movflags','+faststart',full]);
+console.log('Finished:',sequence,full);
+})().catch(e=>{console.error(e);process.exit(1)});
