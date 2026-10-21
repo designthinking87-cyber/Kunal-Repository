@@ -1,0 +1,68 @@
+[hyperframes] Could not persist telemetry config: ENOENT: no such file or directory, mkdir '/home/agent/.hyperframes'. Canary cohort assignment will not be stable across runs.
+
+  Hyperframes collects anonymous usage data to improve the tool.
+  File paths and composition content are never collected.
+  If you sign in to HeyGen, your account (email, or username) is linked to your usage.
+
+  Disable anytime: hyperframes telemetry disable
+
+[SystemMemory] cgroup memory limit detected: 32768 MiB. It governs memory-adaptive render behaviour instead of host RAM.
+◆  Checking story-left-captions
+⚠  Check report was not recorded: ENOENT: no such file or directory, mkdir '/home/agent/.cache/hyperframes/history/e1acd5cd-72c6-41fd-bcaf-92eb811b0e9b'
+[hyperframes] Using system Chrome at /usr/bin/chromium; HeadlessExperimental.beginFrame is unavailable in regular Chrome builds, so the perf-optimized capture path falls back to screenshot mode. Install chrome-headless-shell for the optimized path:
+  npx @puppeteer/browsers install chrome-headless-shell
+(Or set HYPERFRAMES_BROWSER_PATH to point at an existing chrome-headless-shell binary.)
+[hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
+
+Lint
+  ⚠ nested_structure_needs_subcomposition: <div id="cg0"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg0 t=0s
+    Fix: Move <div id="cg0"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg1"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg1 t=0s
+    Fix: Move <div id="cg1"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg2"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg2 t=0s
+    Fix: Move <div id="cg2"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg3"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg3 t=0s
+    Fix: Move <div id="cg3"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg4"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg4 t=0s
+    Fix: Move <div id="cg4"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg5"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg5 t=0s
+    Fix: Move <div id="cg5"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg6"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg6 t=0s
+    Fix: Move <div id="cg6"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg7"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg7 t=0s
+    Fix: Move <div id="cg7"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg8"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg8 t=0s
+    Fix: Move <div id="cg8"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg9"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg9 t=0s
+    Fix: Move <div id="cg9"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cg10"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/video-edit/story-left-captions/index.html #cg10 t=0s
+    Fix: Move <div id="cg10"> and its contents into a sub-composition file and mount it with data-composition-src.
+  0 error(s), 11 warning(s), 0 info(s)
+
+Runtime
+  ◇ 0 errors, 0 warnings
+
+Layout
+  ◇ 0 issues across 9 sample(s)
+
+Motion
+  ◇ 0 errors, 0 warnings
+
+Contrast
+  ◇ 5/5 text checks pass WCAG AA
+
+Snapshots
+  ◇ disabled
+
+◇  Check passed

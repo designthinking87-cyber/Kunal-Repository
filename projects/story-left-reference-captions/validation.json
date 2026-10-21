@@ -1,0 +1,23 @@
+{
+  "renderer": "HyperFrames 0.8.181",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": "30000/1001",
+  "frames": 466,
+  "video_duration_seconds": 15.548867,
+  "audio_duration_seconds": 15.548875,
+  "original_audio_sha256": "7a5562ad92f8e42b6c30ceae809b1911e932b39ca5fc1bd4b0b2a10a0bb88bbc",
+  "final_audio_sha256": "7a5562ad92f8e42b6c30ceae809b1911e932b39ca5fc1bd4b0b2a10a0bb88bbc",
+  "audio_unchanged": true,
+  "check_passed": true,
+  "runtime_errors": 0,
+  "layout_issues_at_11_samples": 0,
+  "contrast_passed": true,
+  "decode_errors": 0,
+  "notes": [
+    "Caption groups intentionally use nested local text wrappers; the 11 structural subcomposition suggestions are advisory. Runtime, layout and motion checks pass.",
+    "Font and effects reconstructed visually from compressed reference; original font project metadata was not supplied."
+  ]
+}
