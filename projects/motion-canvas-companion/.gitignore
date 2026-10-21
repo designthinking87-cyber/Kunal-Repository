@@ -1,0 +1,7 @@
+node_modules/
+output/
+renders/
+.cache/
+.npm-cache/
+.motion-canvas/
+*.log

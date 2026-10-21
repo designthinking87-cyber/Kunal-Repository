@@ -1,0 +1,26 @@
+{
+  "name": "motion-canvas-spiritual",
+  "version": "1.0.0",
+  "description": "Native Motion Canvas spiritual vector sequence with a HyperFrames video assembly",
+  "scripts": {
+    "start": "vite --host 127.0.0.1 --port 8780",
+    "typecheck": "tsc --noEmit",
+    "render": "node tools/render.cjs",
+    "check:assembly": "npx --yes hyperframes@0.8.181 check assembly"
+  },
+  "license": "UNLICENSED",
+  "type": "commonjs",
+  "dependencies": {
+    "@motion-canvas/2d": "3.17.2",
+    "@motion-canvas/core": "3.17.2",
+    "@motion-canvas/ui": "3.17.2",
+    "@motion-canvas/vite-plugin": "3.17.2",
+    "puppeteer-core": "25.14.0",
+    "typescript": "5.9.3",
+    "vite": "5.4.21"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.0"
+  },
+  "private": true
+}

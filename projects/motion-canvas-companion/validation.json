@@ -1,0 +1,28 @@
+{
+  "animation_engine": "Motion Canvas 3.17.2 \u2014 native Renderer / ImageExporter",
+  "assembly_engine": "HyperFrames 0.8.181 \u2014 completed actual render",
+  "standalone": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 450,
+    "seconds": 15,
+    "audio": "silent"
+  },
+  "narrated_short": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 730,
+    "seconds": 24.333333,
+    "narration": "Original AAC stream copied without changes",
+    "input_audio_sha256": "8af53d4e460dbe7967c3da9d8059b83bb571a44c39ca4f459e575733de36d378",
+    "output_audio_sha256": "8af53d4e460dbe7967c3da9d8059b83bb571a44c39ca4f459e575733de36d378"
+  },
+  "checks": {
+    "typescript": "passed",
+    "hyperframes_lint_runtime_layout_motion": "passed, zero errors or warnings",
+    "video_decode": "passed",
+    "visual_review": "Opening, distraction, all cycle nodes and connections, pulse completion, closing question, and full assembled export reviewed."
+  }
+}

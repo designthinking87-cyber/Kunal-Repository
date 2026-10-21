@@ -1,0 +1,13 @@
+import standalone from './project?project';
+import narrated from './narrated?project';
+import {Renderer,Vector2} from '@motion-canvas/core';
+const project=new URLSearchParams(location.search).get('mode')==='narrated'?narrated:standalone;
+project.logger.onLogged.subscribe((e:any)=>console.log('[MC]',JSON.stringify(e)));
+await document.fonts.load('700 70px Dev');await document.fonts.ready;
+const renderer=new Renderer(project);
+const settings={name:new URLSearchParams(location.search).get('mode')==='narrated'?'narrated':'standalone',range:[Number(new URLSearchParams(location.search).get("from")||0),Number(new URLSearchParams(location.search).get("to")||449/30)] as [number,number],fps:30,size:new Vector2(1080,1920),resolutionScale:1,colorSpace:'srgb' as const,background:'#07131F',exporter:{name:'@motion-canvas/core/image-sequence',options:{fileType:'image/png',quality:100,groupByScene:false}}};
+document.body.appendChild(renderer.stage.finalBuffer);
+let renderResult=-1;renderer.onFinished.subscribe(result=>{renderResult=result});
+(window as any).renderAll=async()=>{renderResult=-1;await renderer.render(settings);if(renderResult!==0)throw new Error(`Motion Canvas render failed: ${renderResult}`);return true};
+(window as any).showFrame=async(t:number)=>{await renderer.renderFrame(settings,t);};
+(window as any).mcReady=true;
