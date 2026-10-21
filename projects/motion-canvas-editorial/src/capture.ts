@@ -1,0 +1,11 @@
+import project from './project?project';
+import {Renderer,Vector2} from '@motion-canvas/core';
+project.logger.onLogged.subscribe((e:any)=>console.log('[MC]',JSON.stringify(e)));
+await document.fonts.load('700 70px Dev');await document.fonts.load('400 70px Dev');await document.fonts.ready;
+const renderer=new Renderer(project);let result=-1;renderer.onFinished.subscribe(v=>{result=v});
+const query=new URLSearchParams(location.search);
+const settings={name:'editorial',range:[Number(query.get('from')||0),Number(query.get('to')||729/30)] as [number,number],fps:30,size:new Vector2(1080,1920),resolutionScale:1,colorSpace:'srgb' as const,background:'#07131F',exporter:{name:'@motion-canvas/core/image-sequence',options:{fileType:'image/png',quality:100,groupByScene:false}}};
+document.body.appendChild(renderer.stage.finalBuffer);
+(window as any).renderAll=async()=>{result=-1;await renderer.render(settings);if(result!==0)throw Error('Motion Canvas render failed: '+result);return true};
+(window as any).showFrame=async(t:number)=>{await renderer.renderFrame(settings,t)};
+(window as any).mcReady=true;

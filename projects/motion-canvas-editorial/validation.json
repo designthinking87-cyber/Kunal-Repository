@@ -1,0 +1,23 @@
+{
+  "animation_and_composition_engine": "Motion Canvas 3.17.2, native Scene2D / Video / Renderer / ImageExporter",
+  "encoding": "FFmpeg, H.264 yuv420p BT.709; original AAC copied",
+  "output": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "frames": 730,
+    "duration_seconds": 24.333333
+  },
+  "original_video_sha256": "6c76e7dc30d4b13f878f11c5bf1c1735ff13b95b022bcd993bd967252dbeb70f",
+  "source_copy_sha256": "6c76e7dc30d4b13f878f11c5bf1c1735ff13b95b022bcd993bd967252dbeb70f",
+  "original_audio_sha256": "8af53d4e460dbe7967c3da9d8059b83bb571a44c39ca4f459e575733de36d378",
+  "output_audio_sha256": "8af53d4e460dbe7967c3da9d8059b83bb571a44c39ca4f459e575733de36d378",
+  "checks": {
+    "typescript": "passed",
+    "native_render": "success; all 730 frames present",
+    "complete_mp4_decode": "passed",
+    "first_3_seconds": "footage explicitly hidden before 3.0 seconds",
+    "face_frame_alignment": "Native Motion Canvas 4.0-second facial crop comparison against original: SSIM 0.993772",
+    "visual_review": "Complete narrative sampled at phone size; hook, circular reveal, compassion statement, push-in, companion, birth diagram, forgetting, cycle and final question inspected. Readability refined for short phrases."
+  }
+}

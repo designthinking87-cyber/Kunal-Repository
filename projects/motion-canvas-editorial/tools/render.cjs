@@ -1,0 +1,11 @@
+const fs=require('fs'),path=require('path'),net=require('net'),{spawn,spawnSync}=require('child_process');
+const puppeteer=require('puppeteer-core');const root=path.resolve(__dirname,'..');
+const sleep=ms=>new Promise(r=>setTimeout(r,ms));
+(async()=>{const port=await new Promise(resolve=>{const s=net.createServer();s.listen(0,'127.0.0.1',()=>{const p=s.address().port;s.close(()=>resolve(p))})});
+const server=spawn(process.execPath,[path.join(root,'node_modules/vite/bin/vite.js'),'--host','127.0.0.1','--port',String(port)],{cwd:root,stdio:'inherit'});let browser;
+try{let ready=false;for(let i=0;i<100;i++){try{if((await fetch(`http://127.0.0.1:${port}/capture.html`)).ok){ready=true;break}}catch{}await sleep(200)}if(!ready)throw Error('Vite did not start');
+browser=await puppeteer.launch({executablePath:process.env.CHROME_PATH||'/usr/bin/chromium',headless:true,protocolTimeout:900000,args:['--no-sandbox','--disable-dev-shm-usage']});const page=await browser.newPage();page.on('pageerror',e=>console.error(e));await page.setViewport({width:1080,height:1920,deviceScaleFactor:1});await page.goto(`http://127.0.0.1:${port}/capture.html`);await page.waitForFunction(()=>window.mcReady,{timeout:90000});await page.evaluate(()=>window.renderAll());await browser.close();browser=null;
+for(let i=0;i<730;i++)if(!fs.existsSync(path.join(root,'output/editorial',String(i).padStart(6,'0')+'.png')))throw Error(`Missing frame ${i}`);
+fs.mkdirSync(path.join(root,'renders'),{recursive:true});const args=['-hide_banner','-y','-framerate','30','-i','output/editorial/%06d.png','-i','public/source.mp4','-map','0:v:0','-map','1:a:0','-frames:v','730','-vf','scale=in_range=pc:out_range=tv:out_color_matrix=bt709,format=yuv420p','-c:v','libx264','-crf','16','-preset','fast','-threads','4','-c:a','copy','-colorspace','bt709','-color_trc','bt709','-color_primaries','bt709','-color_range','tv','-t','24.333333','-movflags','+faststart','renders/Karma-MotionCanvas-complete-editorial.mp4'];
+const r=spawnSync('ffmpeg',args,{cwd:root,stdio:'inherit'});if(r.status!==0)throw Error('FFmpeg failed');console.log('Finished complete Motion Canvas editorial Short.');
+}finally{if(browser)await browser.close();server.kill('SIGTERM')}})().catch(e=>{console.error(e);process.exit(1)});
