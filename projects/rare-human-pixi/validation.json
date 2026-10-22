@@ -1,0 +1,24 @@
+{
+  "duration_seconds": 10,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "video_frames": 300,
+  "renderer": "PixiJS 7.4.3 + HyperFrames 0.8.181",
+  "particles": 1900,
+  "vector_life_forms": 30,
+  "background": "#000000",
+  "decoded_corner_channel_maxima_at_20_samples": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "native_render_completed": true,
+  "full_decode_passed": true,
+  "layout_issues": 0,
+  "text_contrast_checks_passed": 13,
+  "runtime_errors": 0,
+  "runtime_warnings": "Only software WebGL ReadPixels performance warnings.",
+  "sound": "Original procedural stereo harmonic bed; no narration, samples or licensed music."
+}

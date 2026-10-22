@@ -1,0 +1,16 @@
+<!doctype html><html lang="hi"><head><meta charset="utf-8"><title>दुर्लभ मानव जन्म</title><script src="gsap.min.js"></script><script src="pixi.min.js"></script><style>
+@font-face{font-family:TiroHindi;src:url(tiro-hindi.ttf)}*{box-sizing:border-box;margin:0}html,body{width:1920px;height:1080px;background:#000;overflow:hidden}#root{position:relative;width:1920px;height:1080px;background:#000;overflow:hidden}#art{position:absolute;inset:0;width:1920px;height:1080px}.copy{position:absolute;inset:0;pointer-events:none;z-index:2}.content{display:flex;flex-direction:column;justify-content:center;align-items:flex-start;width:100%;height:100%;padding:180px 960px 180px 150px;gap:24px}p,h1,h2{font-family:TiroHindi,serif;font-weight:400;color:#f5efdf;white-space:nowrap}.eyebrow{font-size:46px;color:#e6bd72;line-height:1.4}.number{font-size:248px;line-height:1.18;letter-spacing:-.025em}.sub{font-size:62px;line-height:1.4}.rule{width:130px;height:2px;background:#e6bd72;margin:0 0 6px}.final-title{font-size:142px;line-height:1.4;letter-spacing:-.025em}.closing{font-size:53px;line-height:1.4}.closing span{display:block}.fine{color:#e6bd72}
+</style></head><body><div id="root" data-composition-id="rare-human" data-start="0" data-duration="10" data-width="1920" data-height="1080" data-fps="30"><div id="art" data-layout-ignore></div><div id="opening" class="copy"><div class="content"><p id="opening-label" class="eyebrow">अनगिनत जन्मों का सफ़र</p><h1 id="number" class="number">८४ लाख</h1><p id="opening-sub" class="sub">योनियों को पार करके…</p></div></div><div id="ending" class="copy"><div class="content"><p id="arrival" class="eyebrow">तब मिला हमें…</p><h2 id="human-title" class="final-title">मानव जन्म</h2><div id="rule" class="rule"></div><p id="closing" class="closing"><span>बहुत मुश्किल से मिला है</span><span class="fine">यह अनमोल मानव शरीर।</span></p></div></div><audio id="score" class="clip" src="sound-design.wav" data-start="0" data-duration="10" data-track-index="1" data-volume="1"></audio></div><script src="art.js"></script><script>
+window.__timelines=window.__timelines||{};const tl=gsap.timeline({paused:true});
+tl.from('#number',{opacity:0,y:35,scale:.94,duration:.85,ease:'expo.out'},.12);
+tl.from('#opening-label',{opacity:0,x:-25,duration:.6,ease:'power2.out'},.26);
+tl.from('#opening-sub',{opacity:0,y:18,duration:.65,ease:'sine.out'},.58);
+// Scene handoff: the dissolve is the transition while orbital forms converge.
+tl.to('#opening',{opacity:0,x:-24,duration:.7,ease:'power2.inOut'},3.25);
+tl.from('#arrival',{opacity:0,y:15,duration:.65,ease:'sine.out'},5.3);
+tl.from('#human-title',{opacity:0,x:24,duration:.85,ease:'power3.out'},5.55);
+tl.from('#rule',{scaleX:0,transformOrigin:'0% 50%',duration:.7,ease:'expo.out'},6.15);
+tl.from('#closing',{opacity:0,y:20,duration:.75,ease:'power2.out'},6.6);
+let artProgress=0;const clock={get progress(){return artProgress},set progress(v){artProgress=v;window.drawArt(v*10)}};tl.to(clock,{progress:1,duration:10,ease:'none'},0);
+window.__timelines['rare-human']=tl;
+</script></body></html>
