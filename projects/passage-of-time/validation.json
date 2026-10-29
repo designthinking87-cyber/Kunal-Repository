@@ -1,0 +1,33 @@
+{
+  "source_image_unchanged": true,
+  "source_sha256": "35a50b5bc73ed5b749bfed60a4e4236d2aa5c148ec9477994209c7ebdc82bfa0",
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "duration_seconds": 10,
+  "frames": 300,
+  "composition": "PassageOfTime",
+  "component": "LifeStagesAnimation",
+  "typecheck": "passed",
+  "keyframes_reviewed": [
+    0,
+    1,
+    60,
+    120,
+    160,
+    220,
+    250,
+    284,
+    299
+  ],
+  "texture_loading_synchronized": true,
+  "text_overlays": false,
+  "clock_hands_modified": false,
+  "deterministic_animation": true,
+  "full_decode_passed": true,
+  "black_frames_detected": false,
+  "h264_verified": true,
+  "export_reviewed": true
+}
