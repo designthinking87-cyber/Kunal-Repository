@@ -1,0 +1,20 @@
+{
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 750,
+  "video_duration_seconds": 25,
+  "audio_duration_seconds": 25,
+  "codec": "H.264/AAC",
+  "full_decode": "passed",
+  "black_frames_detected": false,
+  "typecheck": "passed",
+  "studio_loaded": true,
+  "narration_segments": 7,
+  "all_supplied_narration_included": true,
+  "voice": "Kokoro am_michael, locally generated",
+  "integrated_loudness_lufs": -16.18,
+  "true_peak_dbtp": -1.46,
+  "source_image_sha256": "35a50b5bc73ed5b749bfed60a4e4236d2aa5c148ec9477994209c7ebdc82bfa0",
+  "visual_checks": "8 scene keyframes, fixed child-image feather and body/network readability, final 25-frame export contact sheet."
+}

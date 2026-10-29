@@ -1,0 +1,51 @@
+[
+  {
+    "clip": 0,
+    "seconds": 2.406083333333333,
+    "peak_dbfs": -4.15,
+    "rms_dbfs": -23.0,
+    "clipped_samples": 0
+  },
+  {
+    "clip": 1,
+    "seconds": 2.836333333333333,
+    "peak_dbfs": -5.05,
+    "rms_dbfs": -23.71,
+    "clipped_samples": 0
+  },
+  {
+    "clip": 2,
+    "seconds": 3.3065416666666665,
+    "peak_dbfs": -6.43,
+    "rms_dbfs": -23.7,
+    "clipped_samples": 0
+  },
+  {
+    "clip": 3,
+    "seconds": 4.044458333333333,
+    "peak_dbfs": -4.42,
+    "rms_dbfs": -23.86,
+    "clipped_samples": 0
+  },
+  {
+    "clip": 4,
+    "seconds": 4.654541666666667,
+    "peak_dbfs": -2.94,
+    "rms_dbfs": -23.07,
+    "clipped_samples": 0
+  },
+  {
+    "clip": 5,
+    "seconds": 3.2394166666666666,
+    "peak_dbfs": -4.28,
+    "rms_dbfs": -22.52,
+    "clipped_samples": 0
+  },
+  {
+    "clip": 6,
+    "seconds": 1.8863333333333334,
+    "peak_dbfs": -1.66,
+    "rms_dbfs": -22.18,
+    "clipped_samples": 0
+  }
+]
