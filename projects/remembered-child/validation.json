@@ -1,0 +1,29 @@
+{
+  "skill": "yt-motion-design",
+  "composition": "RememberedChild",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "frames": 300,
+  "duration_seconds": 10,
+  "codec": "H.264/AAC",
+  "typecheck": "passed",
+  "full_decode": "passed",
+  "black_frames_detected": false,
+  "keyframes_reviewed": [
+    0,
+    60,
+    120,
+    185,
+    225,
+    270,
+    299
+  ],
+  "export_motion_samples_reviewed": "30 frames at 3fps covering the entire 10-second sequence",
+  "integrated_loudness_lufs": -16.41,
+  "true_peak_dbtp": -1.48,
+  "narration": "Complete marked passage, generated English voice reused from prior project",
+  "photo_identity_preserved": true,
+  "body_aging": "Conceptual vector transformation; no photographic face morphing",
+  "surrounding_previous_edit": "Preserved in separate existing projects"
+}
