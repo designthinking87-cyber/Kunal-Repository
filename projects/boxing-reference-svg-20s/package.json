@@ -1,0 +1,15 @@
+{
+  "name": "boxing-svg-reference-match",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes hyperframes@0.8.181 preview",
+    "check": "npx --yes hyperframes@0.8.181 check --timeout 30000 --samples 5",
+    "render": "npx --yes hyperframes@0.8.181 render --fps 22 --quality high --workers 2 --output renders/Boxing-Reference-Match-20s-1920x1080.mp4",
+    "build": "node build-frames.mjs"
+  },
+  "dependencies": {
+    "@svgdotjs/svg.js": "3.2.5"
+  }
+}

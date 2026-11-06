@@ -1,0 +1,96 @@
+{
+  "source_sha256": "0285ae20074cee80c3e609eb07411596f7620a3e1c6493d414dc115808fb8b12",
+  "source_interval": [
+    0,
+    20
+  ],
+  "source_fps": 22,
+  "media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "22/1",
+        "nb_frames": "440"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "nb_frames": "939"
+      }
+    ],
+    "format": {
+      "duration": "20.000000",
+      "size": "7267949"
+    }
+  },
+  "svg": {
+    "frame_count": 440,
+    "valid_xml": true,
+    "frames_with_embedded_raster": [],
+    "traced_from_reference": true,
+    "palette_colors": 40,
+    "fitted_character_frames": 341
+  },
+  "browser_review": {
+    "frames": 440,
+    "deterministic": true,
+    "sourceFrame": "275",
+    "pathCount": 34,
+    "embeddedRaster": 0,
+    "duration": 20,
+    "errors": []
+  },
+  "checks": {
+    "lint": {
+      "ok": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    "runtime": {
+      "ok": true,
+      "errors": 0,
+      "warnings": 0
+    },
+    "layout": {
+      "ok": true,
+      "errors": 0,
+      "warnings": 1
+    },
+    "contrast": {
+      "ok": true,
+      "errors": 0,
+      "warnings": 0
+    }
+  },
+  "layout_warning_review": "Static sweep is a DOM audit limitation for geometry replacement; actual encoded frame changes and browser seeking were inspected.",
+  "audio": {
+    "retained_source_intervals": [
+      [
+        0.0,
+        4.25
+      ],
+      [
+        5.35,
+        8.0
+      ],
+      [
+        10.88,
+        20.0
+      ]
+    ],
+    "integrated_lufs": -17.93,
+    "true_peak_dbtp": -1.16,
+    "listening_audition": false
+  },
+  "full_speed_human_playback_review": false,
+  "mp4_sha256": "b47198cded11876e6b20d16daba8d4e033f8f8478a07c30c21387b99d31d8f33",
+  "fidelity": "Source-matched cadence, silhouettes, camera and environment with supplied-character substitution; vector palette, compression edges, occlusion and face/garment fitting remain approximations, not pixel-identical."
+}

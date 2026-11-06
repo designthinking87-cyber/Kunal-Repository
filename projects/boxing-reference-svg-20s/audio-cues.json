@@ -1,0 +1,32 @@
+{
+  "duration": 20.0,
+  "sample_rate": 44100,
+  "channels": 2,
+  "retained_source_intervals": [
+    [
+      0.0,
+      4.25
+    ],
+    [
+      5.35,
+      8.0
+    ],
+    [
+      10.88,
+      20.0
+    ]
+  ],
+  "crossfade_seconds": 0.012,
+  "dialogue_sections_muted": [
+    [
+      4.25,
+      5.35
+    ],
+    [
+      8,
+      10.88
+    ]
+  ],
+  "source": "Original audio from the user-provided reference; action regions only, no newly generated SFX.",
+  "listening_audition": "Not yet available"
+}

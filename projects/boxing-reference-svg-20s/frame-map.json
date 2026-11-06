@@ -1,0 +1,7075 @@
+[
+  {
+    "frame": 0,
+    "source_time": 0.0,
+    "actor_fit": {
+      "head": [
+        752.4,
+        181.2,
+        71.68
+      ],
+      "axis": [
+        -0.03694325711988407,
+        0.9993173648813344
+      ],
+      "angle": 2.1171744889164614,
+      "facing": 1,
+      "head_angle": 2.1171744889164614
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 1,
+    "source_time": 0.045454545454545456,
+    "actor_fit": {
+      "head": [
+        733.2,
+        181.2,
+        73.6
+      ],
+      "axis": [
+        -0.0030870364992691976,
+        0.9999952350914739
+      ],
+      "angle": 0.17687444354125148,
+      "facing": 1,
+      "head_angle": 0.17687444354125148
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 2,
+    "source_time": 0.09090909090909091,
+    "actor_fit": {
+      "head": [
+        716.4,
+        181.2,
+        76.24
+      ],
+      "axis": [
+        0.019193249639753142,
+        0.9998157926179533
+      ],
+      "angle": -1.0997597282816258,
+      "facing": 1,
+      "head_angle": -1.0997597282816258
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 3,
+    "source_time": 0.13636363636363635,
+    "actor_fit": {
+      "head": [
+        704.4,
+        181.2,
+        76.72
+      ],
+      "axis": [
+        0.023184477541017056,
+        0.9997312038748967
+      ],
+      "angle": -1.3284917465938264,
+      "facing": 1,
+      "head_angle": -1.3284917465938264
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 4,
+    "source_time": 0.18181818181818182,
+    "actor_fit": {
+      "head": [
+        690.0,
+        174.0,
+        71.92
+      ],
+      "axis": [
+        0.047991412938910245,
+        0.9988477483000736
+      ],
+      "angle": -2.7507620188541893,
+      "facing": 1,
+      "head_angle": -2.7507620188541893
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 5,
+    "source_time": 0.22727272727272727,
+    "actor_fit": {
+      "head": [
+        678.0,
+        174.0,
+        71.92
+      ],
+      "axis": [
+        0.039903131596835936,
+        0.9992035528803757
+      ],
+      "angle": -2.286888190600422,
+      "facing": 1,
+      "head_angle": -2.286888190600422
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 6,
+    "source_time": 0.2727272727272727,
+    "actor_fit": {
+      "head": [
+        666.0,
+        174.0,
+        70.48
+      ],
+      "axis": [
+        0.037984547782941316,
+        0.9992783266586568
+      ],
+      "angle": -2.176877964805726,
+      "facing": 1,
+      "head_angle": -2.176877964805726
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 7,
+    "source_time": 0.3181818181818182,
+    "actor_fit": {
+      "head": [
+        661.2,
+        174.0,
+        70.96
+      ],
+      "axis": [
+        -0.0069845635457237,
+        0.9999756076385443
+      ],
+      "angle": 0.40018926676994226,
+      "facing": 1,
+      "head_angle": 0.40018926676994226
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 8,
+    "source_time": 0.36363636363636365,
+    "actor_fit": {
+      "head": [
+        649.2,
+        174.0,
+        70.96
+      ],
+      "axis": [
+        0.028715021466176,
+        0.9995876387501984
+      ],
+      "angle": -1.6454757216661875,
+      "facing": 1,
+      "head_angle": -1.6454757216661875
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 9,
+    "source_time": 0.4090909090909091,
+    "actor_fit": {
+      "head": [
+        646.8,
+        174.0,
+        70.96
+      ],
+      "axis": [
+        0.022596828893240894,
+        0.9997446590624877
+      ],
+      "angle": -1.2948131341046292,
+      "facing": 1,
+      "head_angle": -1.2948131341046292
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 10,
+    "source_time": 0.45454545454545453,
+    "actor_fit": {
+      "head": [
+        640.8,
+        176.4,
+        71.19999999999999
+      ],
+      "axis": [
+        0.04096731411214235,
+        0.9991604871963448
+      ],
+      "angle": -2.3479112672493017,
+      "facing": 1,
+      "head_angle": -2.3479112672493017
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 11,
+    "source_time": 0.5,
+    "actor_fit": {
+      "head": [
+        634.8,
+        178.8,
+        71.44
+      ],
+      "axis": [
+        0.07542114850476946,
+        0.9971517689691081
+      ],
+      "angle": -4.325420874970803,
+      "facing": 1,
+      "head_angle": -4.325420874970803
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 12,
+    "source_time": 0.5454545454545454,
+    "actor_fit": {
+      "head": [
+        632.4,
+        178.8,
+        75.28
+      ],
+      "axis": [
+        0.0695410633399522,
+        0.9975790898518015
+      ],
+      "angle": -3.9876278481215337,
+      "facing": 1,
+      "head_angle": -3.9876278481215337
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 13,
+    "source_time": 0.5909090909090909,
+    "actor_fit": {
+      "head": [
+        637.2,
+        178.8,
+        76.24
+      ],
+      "axis": [
+        0.06342492591801809,
+        0.9979866125215778
+      ],
+      "angle": -3.636421407211259,
+      "facing": 1,
+      "head_angle": -3.636421407211259
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 14,
+    "source_time": 0.6363636363636364,
+    "actor_fit": {
+      "head": [
+        642.0,
+        174.0,
+        73.12
+      ],
+      "axis": [
+        0.061221756612942206,
+        0.9981241889250182
+      ],
+      "angle": -3.509943206319292,
+      "facing": 1,
+      "head_angle": -3.509943206319292
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 15,
+    "source_time": 0.6818181818181818,
+    "actor_fit": {
+      "head": [
+        642.0,
+        169.2,
+        74.8
+      ],
+      "axis": [
+        0.05597602476768866,
+        0.9984321131910807
+      ],
+      "angle": -3.208867195317467,
+      "facing": 1,
+      "head_angle": -3.208867195317467
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 16,
+    "source_time": 0.7272727272727273,
+    "actor_fit": {
+      "head": [
+        649.2,
+        169.2,
+        72.64
+      ],
+      "axis": [
+        0.05484135710945378,
+        0.9984950803836709
+      ],
+      "angle": -3.1437554965239514,
+      "facing": 1,
+      "head_angle": -3.1437554965239514
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 17,
+    "source_time": 0.7727272727272727,
+    "actor_fit": {
+      "head": [
+        646.8,
+        166.8,
+        73.36
+      ],
+      "axis": [
+        0.03976511690701616,
+        0.999209054941643
+      ],
+      "angle": -2.278974250111901,
+      "facing": 1,
+      "head_angle": -2.278974250111901
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 18,
+    "source_time": 0.8181818181818182,
+    "actor_fit": {
+      "head": [
+        642.0,
+        166.8,
+        73.84
+      ],
+      "axis": [
+        0.03781916527556201,
+        0.9992845994699707
+      ],
+      "angle": -2.1673954315988766,
+      "facing": 1,
+      "head_angle": -2.1673954315988766
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 19,
+    "source_time": 0.8636363636363636,
+    "actor_fit": {
+      "head": [
+        639.6,
+        162.0,
+        74.56
+      ],
+      "axis": [
+        0.02727876537590893,
+        0.9996278652376424
+      ],
+      "angle": -1.5631520322481123,
+      "facing": 1,
+      "head_angle": -1.5631520322481123
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 20,
+    "source_time": 0.9090909090909091,
+    "actor_fit": {
+      "head": [
+        632.4,
+        162.0,
+        71.68
+      ],
+      "axis": [
+        0.049869308772912124,
+        0.9987557519446444
+      ],
+      "angle": -2.8584865737469585,
+      "facing": 1,
+      "head_angle": -2.8584865737469585
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 21,
+    "source_time": 0.9545454545454546,
+    "actor_fit": {
+      "head": [
+        630.0,
+        162.0,
+        71.92
+      ],
+      "axis": [
+        0.04078451409607394,
+        0.9991679655643224
+      ],
+      "angle": -2.3374288369241327,
+      "facing": 1,
+      "head_angle": -2.3374288369241327
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 22,
+    "source_time": 1.0,
+    "actor_fit": {
+      "head": [
+        630.0,
+        166.8,
+        74.08
+      ],
+      "axis": [
+        0.013028709789381369,
+        0.9999151227585391
+      ],
+      "angle": -0.7465112041557518,
+      "facing": 1,
+      "head_angle": -0.7465112041557518
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 23,
+    "source_time": 1.0454545454545454,
+    "actor_fit": {
+      "head": [
+        625.2,
+        169.2,
+        75.76
+      ],
+      "axis": [
+        0.006655561429308346,
+        0.9999778515057525
+      ],
+      "angle": -0.38133839555065663,
+      "facing": 1,
+      "head_angle": -0.38133839555065663
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 24,
+    "source_time": 1.0909090909090908,
+    "actor_fit": {
+      "head": [
+        620.4,
+        174.0,
+        76.72
+      ],
+      "axis": [
+        0.04836073761498485,
+        0.9988299350026182
+      ],
+      "angle": -2.7719473633618605,
+      "facing": 1,
+      "head_angle": -2.7719473633618605
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 25,
+    "source_time": 1.1363636363636365,
+    "actor_fit": {
+      "head": [
+        625.2,
+        178.8,
+        76.24
+      ],
+      "axis": [
+        0.03163094714091962,
+        0.9994996163996104
+      ],
+      "angle": -1.8126221187235103,
+      "facing": 1,
+      "head_angle": -1.8126221187235103
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 26,
+    "source_time": 1.1818181818181819,
+    "actor_fit": {
+      "head": [
+        625.2,
+        181.2,
+        73.84
+      ],
+      "axis": [
+        0.060262814320013444,
+        0.9981825450338387
+      ],
+      "angle": -3.454898216467953,
+      "facing": 1,
+      "head_angle": -3.454898216467953
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 27,
+    "source_time": 1.2272727272727273,
+    "actor_fit": {
+      "head": [
+        634.8,
+        181.2,
+        74.8
+      ],
+      "axis": [
+        0.04955623368427269,
+        0.9987713350427263
+      ],
+      "angle": -2.8405264857764934,
+      "facing": 1,
+      "head_angle": -2.8405264857764934
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 28,
+    "source_time": 1.2727272727272727,
+    "actor_fit": {
+      "head": [
+        632.4,
+        181.2,
+        71.92
+      ],
+      "axis": [
+        0.071023438868743,
+        0.9974746468613916
+      ],
+      "angle": -4.072772267301772,
+      "facing": 1,
+      "head_angle": -4.072772267301772
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 29,
+    "source_time": 1.3181818181818181,
+    "actor_fit": {
+      "head": [
+        637.2,
+        181.2,
+        73.36
+      ],
+      "axis": [
+        0.06843037772872418,
+        0.9976558942861532
+      ],
+      "angle": -3.9238382776480307,
+      "facing": 1,
+      "head_angle": -3.9238382776480307
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 30,
+    "source_time": 1.3636363636363635,
+    "actor_fit": {
+      "head": [
+        634.8,
+        181.2,
+        74.08
+      ],
+      "axis": [
+        0.0641470151153014,
+        0.9979404593720996
+      ],
+      "angle": -3.6778784947109955,
+      "facing": 1,
+      "head_angle": -3.6778784947109955
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 31,
+    "source_time": 1.4090909090909092,
+    "actor_fit": {
+      "head": [
+        630.0,
+        181.2,
+        72.16
+      ],
+      "axis": [
+        0.07543463701530807,
+        0.9971507486525639
+      ],
+      "angle": -4.326195917592415,
+      "facing": 1,
+      "head_angle": -4.326195917592415
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 32,
+    "source_time": 1.4545454545454546,
+    "actor_fit": {
+      "head": [
+        610.8,
+        178.8,
+        71.68
+      ],
+      "axis": [
+        0.08926666230094339,
+        0.9960077625207795
+      ],
+      "angle": -5.121420125135359,
+      "facing": 1,
+      "head_angle": -5.121420125135359
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 33,
+    "source_time": 1.5,
+    "actor_fit": {
+      "head": [
+        598.8,
+        181.2,
+        76.96
+      ],
+      "axis": [
+        0.07306530218265013,
+        0.9973271587683542
+      ],
+      "angle": -4.1900672377002195,
+      "facing": 1,
+      "head_angle": -4.1900672377002195
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 34,
+    "source_time": 1.5454545454545454,
+    "actor_fit": {
+      "head": [
+        589.2,
+        178.8,
+        73.84
+      ],
+      "axis": [
+        0.0688872414477094,
+        0.9976244523695904
+      ],
+      "angle": -3.950076557894633,
+      "facing": 1,
+      "head_angle": -3.950076557894633
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 35,
+    "source_time": 1.5909090909090908,
+    "actor_fit": {
+      "head": [
+        577.2,
+        178.8,
+        74.8
+      ],
+      "axis": [
+        0.06518061700596813,
+        0.9978734825451177
+      ],
+      "angle": -3.737223726742613,
+      "facing": 1,
+      "head_angle": -3.737223726742613
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 36,
+    "source_time": 1.6363636363636365,
+    "actor_fit": {
+      "head": [
+        565.2,
+        178.8,
+        73.36
+      ],
+      "axis": [
+        0.06973746172966944,
+        0.9975653795273284
+      ],
+      "angle": -3.9989080325596262,
+      "facing": 1,
+      "head_angle": -3.9989080325596262
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 37,
+    "source_time": 1.6818181818181819,
+    "actor_fit": {
+      "head": [
+        560.4,
+        181.2,
+        76.24
+      ],
+      "axis": [
+        0.04478775641690377,
+        0.9989965249564886
+      ],
+      "angle": -2.567008116864656,
+      "facing": 1,
+      "head_angle": -2.567008116864656
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 38,
+    "source_time": 1.7272727272727273,
+    "actor_fit": {
+      "head": [
+        550.8,
+        181.2,
+        73.12
+      ],
+      "axis": [
+        0.060969151675711285,
+        0.9981396508224407
+      ],
+      "angle": -3.4954429219159238,
+      "facing": 1,
+      "head_angle": -3.4954429219159238
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 39,
+    "source_time": 1.7727272727272727,
+    "actor_fit": {
+      "head": [
+        543.6,
+        181.2,
+        73.84
+      ],
+      "axis": [
+        0.05375328586207553,
+        0.9985542470286879
+      ],
+      "angle": -3.0813215012692012,
+      "facing": 1,
+      "head_angle": -3.0813215012692012
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 40,
+    "source_time": 1.8181818181818181,
+    "actor_fit": {
+      "head": [
+        534.0,
+        186.0,
+        75.76
+      ],
+      "axis": [
+        0.06511903275984757,
+        0.9978775032900691
+      ],
+      "angle": -3.733687697036359,
+      "facing": 1,
+      "head_angle": -3.733687697036359
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 41,
+    "source_time": 1.8636363636363635,
+    "actor_fit": {
+      "head": [
+        678.0,
+        301.2,
+        184.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 42,
+    "source_time": 1.9090909090909092,
+    "actor_fit": {
+      "head": [
+        670.8,
+        301.2,
+        192.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 43,
+    "source_time": 1.9545454545454546,
+    "actor_fit": {
+      "head": [
+        670.8,
+        298.8,
+        190.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 44,
+    "source_time": 2.0,
+    "actor_fit": {
+      "head": [
+        668.4,
+        298.8,
+        190.48
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 45,
+    "source_time": 2.0454545454545454,
+    "actor_fit": {
+      "head": [
+        668.4,
+        296.4,
+        189.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 46,
+    "source_time": 2.090909090909091,
+    "actor_fit": {
+      "head": [
+        666.0,
+        296.4,
+        189.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 47,
+    "source_time": 2.1363636363636362,
+    "actor_fit": {
+      "head": [
+        658.8,
+        294.0,
+        187.6
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 48,
+    "source_time": 2.1818181818181817,
+    "actor_fit": {
+      "head": [
+        654.0,
+        301.2,
+        192.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 49,
+    "source_time": 2.227272727272727,
+    "actor_fit": {
+      "head": [
+        649.2,
+        294.0,
+        191.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 50,
+    "source_time": 2.272727272727273,
+    "actor_fit": {
+      "head": [
+        642.0,
+        294.0,
+        189.52
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 51,
+    "source_time": 2.3181818181818183,
+    "actor_fit": {
+      "head": [
+        637.2,
+        296.4,
+        191.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 52,
+    "source_time": 2.3636363636363638,
+    "actor_fit": {
+      "head": [
+        630.0,
+        296.4,
+        189.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 53,
+    "source_time": 2.409090909090909,
+    "actor_fit": {
+      "head": [
+        622.8,
+        294.0,
+        190.72
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 54,
+    "source_time": 2.4545454545454546,
+    "actor_fit": {
+      "head": [
+        620.4,
+        294.0,
+        188.08
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 55,
+    "source_time": 2.5,
+    "actor_fit": {
+      "head": [
+        610.8,
+        294.0,
+        189.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 56,
+    "source_time": 2.5454545454545454,
+    "actor_fit": {
+      "head": [
+        603.6,
+        291.6,
+        189.04
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 57,
+    "source_time": 2.590909090909091,
+    "actor_fit": {
+      "head": [
+        598.8,
+        294.0,
+        190.0
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 58,
+    "source_time": 2.6363636363636362,
+    "actor_fit": {
+      "head": [
+        586.8,
+        294.0,
+        186.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 59,
+    "source_time": 2.6818181818181817,
+    "actor_fit": {
+      "head": [
+        584.4,
+        296.4,
+        189.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 60,
+    "source_time": 2.727272727272727,
+    "actor_fit": {
+      "head": [
+        577.2,
+        298.8,
+        190.24
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 61,
+    "source_time": 2.772727272727273,
+    "actor_fit": {
+      "head": [
+        570.0,
+        296.4,
+        190.0
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 62,
+    "source_time": 2.8181818181818183,
+    "actor_fit": {
+      "head": [
+        560.4,
+        301.2,
+        191.68
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 63,
+    "source_time": 2.8636363636363638,
+    "actor_fit": {
+      "head": [
+        560.4,
+        301.2,
+        192.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 64,
+    "source_time": 2.909090909090909,
+    "actor_fit": {
+      "head": [
+        550.8,
+        301.2,
+        190.72
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 65,
+    "source_time": 2.9545454545454546,
+    "actor_fit": {
+      "head": [
+        543.6,
+        303.6,
+        190.0
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 66,
+    "source_time": 3.0,
+    "actor_fit": {
+      "head": [
+        541.2,
+        301.2,
+        189.04
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 67,
+    "source_time": 3.0454545454545454,
+    "actor_fit": {
+      "head": [
+        534.0,
+        306.0,
+        191.68
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 68,
+    "source_time": 3.090909090909091,
+    "actor_fit": {
+      "head": [
+        529.2,
+        301.2,
+        187.12
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 69,
+    "source_time": 3.1363636363636362,
+    "actor_fit": {
+      "head": [
+        522.0,
+        306.0,
+        190.72
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 70,
+    "source_time": 3.1818181818181817,
+    "actor_fit": {
+      "head": [
+        517.2,
+        301.2,
+        188.08
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 71,
+    "source_time": 3.227272727272727,
+    "actor_fit": {
+      "head": [
+        512.4,
+        301.2,
+        189.52
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 72,
+    "source_time": 3.272727272727273,
+    "actor_fit": {
+      "head": [
+        510.0,
+        301.2,
+        189.76
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 73,
+    "source_time": 3.3181818181818183,
+    "actor_fit": {
+      "head": [
+        502.8,
+        301.2,
+        189.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 74,
+    "source_time": 3.3636363636363638,
+    "actor_fit": {
+      "head": [
+        493.2,
+        298.8,
+        188.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 75,
+    "source_time": 3.409090909090909,
+    "actor_fit": {
+      "head": [
+        493.2,
+        296.4,
+        188.8
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 76,
+    "source_time": 3.4545454545454546,
+    "actor_fit": {
+      "head": [
+        486.0,
+        296.4,
+        188.32
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 77,
+    "source_time": 3.5,
+    "actor_fit": {
+      "head": [
+        486.0,
+        294.0,
+        190.48
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 78,
+    "source_time": 3.5454545454545454,
+    "actor_fit": {
+      "head": [
+        483.6,
+        296.4,
+        190.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 79,
+    "source_time": 3.590909090909091,
+    "actor_fit": {
+      "head": [
+        483.6,
+        291.6,
+        189.76
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 80,
+    "source_time": 3.6363636363636362,
+    "actor_fit": {
+      "head": [
+        481.2,
+        286.8,
+        186.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 81,
+    "source_time": 3.6818181818181817,
+    "actor_fit": {
+      "head": [
+        481.2,
+        289.2,
+        190.72
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 82,
+    "source_time": 3.727272727272727,
+    "actor_fit": {
+      "head": [
+        486.0,
+        289.2,
+        187.84
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 83,
+    "source_time": 3.772727272727273,
+    "actor_fit": {
+      "head": [
+        481.2,
+        291.6,
+        192.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 84,
+    "source_time": 3.8181818181818183,
+    "actor_fit": {
+      "head": [
+        481.2,
+        291.6,
+        193.36
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 85,
+    "source_time": 3.8636363636363638,
+    "actor_fit": {
+      "head": [
+        481.2,
+        291.6,
+        191.44
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 86,
+    "source_time": 3.909090909090909,
+    "actor_fit": {
+      "head": [
+        481.2,
+        289.2,
+        191.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 87,
+    "source_time": 3.9545454545454546,
+    "actor_fit": {
+      "head": [
+        481.2,
+        286.8,
+        193.12
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 88,
+    "source_time": 4.0,
+    "actor_fit": {
+      "head": [
+        483.6,
+        291.6,
+        195.76
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 89,
+    "source_time": 4.045454545454546,
+    "actor_fit": {
+      "head": [
+        481.2,
+        289.2,
+        193.84
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 90,
+    "source_time": 4.090909090909091,
+    "actor_fit": {
+      "head": [
+        481.2,
+        289.2,
+        193.6
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 91,
+    "source_time": 4.136363636363637,
+    "actor_fit": {
+      "head": [
+        483.6,
+        294.0,
+        195.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 92,
+    "source_time": 4.181818181818182,
+    "actor_fit": {
+      "head": [
+        486.0,
+        294.0,
+        198.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 93,
+    "source_time": 4.2272727272727275,
+    "actor_fit": {
+      "head": [
+        483.6,
+        291.6,
+        197.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 94,
+    "source_time": 4.2727272727272725,
+    "actor_fit": {
+      "head": [
+        483.6,
+        291.6,
+        196.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 95,
+    "source_time": 4.318181818181818,
+    "actor_fit": {
+      "head": [
+        469.2,
+        298.8,
+        212.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 96,
+    "source_time": 4.363636363636363,
+    "actor_fit": {
+      "head": [
+        474.0,
+        291.6,
+        208.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 97,
+    "source_time": 4.409090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 98,
+    "source_time": 4.454545454545454,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 99,
+    "source_time": 4.5,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 100,
+    "source_time": 4.545454545454546,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 101,
+    "source_time": 4.590909090909091,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 102,
+    "source_time": 4.636363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 103,
+    "source_time": 4.681818181818182,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 104,
+    "source_time": 4.7272727272727275,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 105,
+    "source_time": 4.7727272727272725,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 106,
+    "source_time": 4.818181818181818,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 107,
+    "source_time": 4.863636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 108,
+    "source_time": 4.909090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 109,
+    "source_time": 4.954545454545454,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 110,
+    "source_time": 5.0,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 111,
+    "source_time": 5.045454545454546,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 112,
+    "source_time": 5.090909090909091,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 113,
+    "source_time": 5.136363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 114,
+    "source_time": 5.181818181818182,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 115,
+    "source_time": 5.2272727272727275,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 116,
+    "source_time": 5.2727272727272725,
+    "actor_fit": {
+      "head": [
+        534.0,
+        219.6,
+        54.64
+      ],
+      "axis": [
+        0.3014358725507494,
+        0.95348645231045
+      ],
+      "angle": -17.543865381310752,
+      "facing": 1,
+      "head_angle": -17.543865381310752
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 117,
+    "source_time": 5.318181818181818,
+    "actor_fit": {
+      "head": [
+        555.6,
+        217.2,
+        56.8
+      ],
+      "axis": [
+        0.2871402752866637,
+        0.9578885437817382
+      ],
+      "angle": -16.686825691752745,
+      "facing": 1,
+      "head_angle": -16.686825691752745
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 118,
+    "source_time": 5.363636363636363,
+    "actor_fit": {
+      "head": [
+        558.0,
+        219.6,
+        54.4
+      ],
+      "axis": [
+        0.318224378198558,
+        0.9480154245159418
+      ],
+      "angle": -18.55557674102009,
+      "facing": 1,
+      "head_angle": -18.55557674102009
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 119,
+    "source_time": 5.409090909090909,
+    "actor_fit": {
+      "head": [
+        562.8,
+        222.0,
+        54.16
+      ],
+      "axis": [
+        0.31297794280788394,
+        0.9497603946868626
+      ],
+      "angle": -18.23878712176723,
+      "facing": 1,
+      "head_angle": -18.23878712176723
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 120,
+    "source_time": 5.454545454545454,
+    "actor_fit": {
+      "head": [
+        570.0,
+        229.2,
+        56.56
+      ],
+      "axis": [
+        0.2954492293827513,
+        0.9553584420818914
+      ],
+      "angle": -17.184477079662983,
+      "facing": 1,
+      "head_angle": -17.184477079662983
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 121,
+    "source_time": 5.5,
+    "actor_fit": {
+      "head": [
+        565.2,
+        234.0,
+        57.76
+      ],
+      "axis": [
+        0.28967384211856545,
+        0.9571254176920956
+      ],
+      "angle": -16.83843043700095,
+      "facing": 1,
+      "head_angle": -16.83843043700095
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 122,
+    "source_time": 5.545454545454546,
+    "actor_fit": {
+      "head": [
+        553.2,
+        234.0,
+        53.92
+      ],
+      "axis": [
+        0.009299382695025993,
+        0.9999567598058886
+      ],
+      "angle": -0.5328230603149677,
+      "facing": 1,
+      "head_angle": -0.5328230603149677
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 123,
+    "source_time": 5.590909090909091,
+    "actor_fit": {
+      "head": [
+        538.8,
+        246.0,
+        57.04
+      ],
+      "axis": [
+        0.02481886210657949,
+        0.9996919645989633
+      ],
+      "angle": -1.422162079445286,
+      "facing": 1,
+      "head_angle": -1.422162079445286
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 124,
+    "source_time": 5.636363636363637,
+    "actor_fit": {
+      "head": [
+        546.0,
+        234.0,
+        57.28
+      ],
+      "axis": [
+        0.0371952157081835,
+        0.9993080185450438
+      ],
+      "angle": -2.131620581480732,
+      "facing": 1,
+      "head_angle": -2.131620581480732
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 125,
+    "source_time": 5.681818181818182,
+    "actor_fit": {
+      "head": [
+        625.2,
+        232.8,
+        61.96
+      ],
+      "axis": [
+        0.13412565296161252,
+        0.9909643329694673
+      ],
+      "angle": -7.708063686314958,
+      "facing": -1,
+      "head_angle": -7.708063686314958
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 126,
+    "source_time": 5.7272727272727275,
+    "actor_fit": {
+      "head": [
+        704.4,
+        231.6,
+        66.64
+      ],
+      "axis": [
+        -0.9412803976834743,
+        0.3376258475544203
+      ],
+      "angle": 70.26770627873265,
+      "facing": -1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 127,
+    "source_time": 5.7727272727272725,
+    "actor_fit": {
+      "head": [
+        699.6,
+        224.4,
+        67.36
+      ],
+      "axis": [
+        0.20890677801131535,
+        0.9779355592782845
+      ],
+      "angle": -12.058294343191093,
+      "facing": -1,
+      "head_angle": -12.058294343191093
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 128,
+    "source_time": 5.818181818181818,
+    "actor_fit": {
+      "head": [
+        735.6,
+        226.8,
+        67.12
+      ],
+      "axis": [
+        0.014458916589636047,
+        0.9998954644016813
+      ],
+      "angle": -0.8284637651041464,
+      "facing": -1,
+      "head_angle": -0.8284637651041464
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 129,
+    "source_time": 5.863636363636363,
+    "actor_fit": {
+      "head": [
+        776.4,
+        224.4,
+        67.12
+      ],
+      "axis": [
+        -0.06683056165961883,
+        0.9977643389239064
+      ],
+      "angle": 3.8319652099189057,
+      "facing": -1,
+      "head_angle": 3.8319652099189057
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 130,
+    "source_time": 5.909090909090909,
+    "actor_fit": {
+      "head": [
+        790.8,
+        222.0,
+        64.72
+      ],
+      "axis": [
+        -0.11189153481050446,
+        0.9937204256921308
+      ],
+      "angle": 6.424365773342515,
+      "facing": -1,
+      "head_angle": 6.424365773342515
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 131,
+    "source_time": 5.954545454545454,
+    "actor_fit": {
+      "head": [
+        793.2,
+        224.4,
+        67.6
+      ],
+      "axis": [
+        -0.047626186927591324,
+        0.9988652293071063
+      ],
+      "angle": 2.729812153664966,
+      "facing": -1,
+      "head_angle": 2.729812153664966
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 132,
+    "source_time": 6.0,
+    "actor_fit": {
+      "head": [
+        795.6,
+        222.0,
+        68.08
+      ],
+      "axis": [
+        0.26901467214660046,
+        0.9631360787395813
+      ],
+      "angle": -15.605642523223523,
+      "facing": -1,
+      "head_angle": -15.605642523223523
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 133,
+    "source_time": 6.045454545454546,
+    "actor_fit": {
+      "head": [
+        699.6,
+        224.4,
+        68.08
+      ],
+      "axis": [
+        0.10200639817202484,
+        0.9947837426958536
+      ],
+      "angle": -5.854719550933396,
+      "facing": -1,
+      "head_angle": -5.854719550933396
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 134,
+    "source_time": 6.090909090909091,
+    "actor_fit": {
+      "head": [
+        752.4,
+        229.2,
+        68.8
+      ],
+      "axis": [
+        0.0445359402347228,
+        0.9990077827661851
+      ],
+      "angle": -2.5525657011802423,
+      "facing": -1,
+      "head_angle": -2.5525657011802423
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 135,
+    "source_time": 6.136363636363637,
+    "actor_fit": {
+      "head": [
+        934.0,
+        247.0,
+        65.0
+      ],
+      "axis": [
+        -0.029738629845682416,
+        0.9995577091368469
+      ],
+      "angle": 1.7041492292795368,
+      "facing": -1,
+      "head_angle": 1.7041492292795368
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 136,
+    "source_time": 6.181818181818182,
+    "actor_fit": {
+      "head": [
+        1035.6,
+        294.0,
+        68.56
+      ],
+      "axis": [
+        0.1558547189236854,
+        0.9877799889596969
+      ],
+      "angle": -8.96637050139799,
+      "facing": -1,
+      "head_angle": -8.96637050139799
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 137,
+    "source_time": 6.2272727272727275,
+    "actor_fit": {
+      "head": [
+        1088.4,
+        265.2,
+        63.76
+      ],
+      "axis": [
+        0.23722861119631528,
+        0.971453851724243
+      ],
+      "angle": -13.723028275365891,
+      "facing": -1,
+      "head_angle": -13.723028275365891
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 138,
+    "source_time": 6.2727272727272725,
+    "actor_fit": {
+      "head": [
+        1126.8,
+        272.4,
+        64.96
+      ],
+      "axis": [
+        0.22624082005715856,
+        0.9740713995082005
+      ],
+      "angle": -13.075853570654516,
+      "facing": -1,
+      "head_angle": -13.075853570654516
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 139,
+    "source_time": 6.318181818181818,
+    "actor_fit": {
+      "head": [
+        1177.2,
+        255.6,
+        71.44
+      ],
+      "axis": [
+        0.0864810306526246,
+        0.9962534975282444
+      ],
+      "angle": -4.961195323382398,
+      "facing": -1,
+      "head_angle": -4.961195323382398
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 140,
+    "source_time": 6.363636363636363,
+    "actor_fit": {
+      "head": [
+        1184.4,
+        250.8,
+        76.96
+      ],
+      "axis": [
+        0.02485012936481128,
+        0.9996911878528049
+      ],
+      "angle": -1.4239541140848502,
+      "facing": -1,
+      "head_angle": -1.4239541140848502
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 141,
+    "source_time": 6.409090909090909,
+    "actor_fit": {
+      "head": [
+        1148.4,
+        236.4,
+        65.92
+      ],
+      "axis": [
+        -0.004365674993865221,
+        0.9999904703955174
+      ],
+      "angle": 0.2501355464390542,
+      "facing": -1,
+      "head_angle": 0.2501355464390542
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 142,
+    "source_time": 6.454545454545454,
+    "actor_fit": {
+      "head": [
+        646.8,
+        226.8,
+        102.64
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 143,
+    "source_time": 6.5,
+    "actor_fit": {
+      "head": [
+        618.0,
+        226.8,
+        101.68
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 144,
+    "source_time": 6.545454545454546,
+    "actor_fit": {
+      "head": [
+        608.4,
+        238.8,
+        103.12
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 145,
+    "source_time": 6.590909090909091,
+    "actor_fit": {
+      "head": [
+        606.0,
+        246.0,
+        103.6
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 146,
+    "source_time": 6.636363636363637,
+    "actor_fit": {
+      "head": [
+        601.2,
+        253.2,
+        103.12
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 147,
+    "source_time": 6.681818181818182,
+    "actor_fit": {
+      "head": [
+        610.8,
+        250.8,
+        104.32
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 148,
+    "source_time": 6.7272727272727275,
+    "actor_fit": {
+      "head": [
+        620.4,
+        255.6,
+        105.52
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 149,
+    "source_time": 6.7727272727272725,
+    "actor_fit": {
+      "head": [
+        632.4,
+        255.6,
+        111.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 150,
+    "source_time": 6.818181818181818,
+    "actor_fit": {
+      "head": [
+        634.8,
+        258.0,
+        105.52
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 151,
+    "source_time": 6.863636363636363,
+    "actor_fit": {
+      "head": [
+        625.0,
+        253.0,
+        101.0
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 152,
+    "source_time": 6.909090909090909,
+    "actor_fit": {
+      "head": [
+        595.0,
+        255.0,
+        96.0
+      ],
+      "axis": [
+        -0.13658519696934132,
+        0.9906283278651213
+      ],
+      "angle": 7.850294147285638,
+      "facing": 1,
+      "head_angle": 7.850294147285638
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 153,
+    "source_time": 6.954545454545454,
+    "actor_fit": {
+      "head": [
+        934.8,
+        145.2,
+        50.08
+      ],
+      "axis": [
+        0.09415311341188899,
+        0.9955577287304077
+      ],
+      "angle": -5.402578304338334,
+      "facing": -1,
+      "head_angle": -5.402578304338334
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 154,
+    "source_time": 7.0,
+    "actor_fit": {
+      "head": [
+        894.0,
+        162.0,
+        41.44
+      ],
+      "axis": [
+        0.16972089964483097,
+        0.9854921695395399
+      ],
+      "angle": -9.771591974329226,
+      "facing": -1,
+      "head_angle": -9.771591974329226
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 155,
+    "source_time": 7.045454545454546,
+    "actor_fit": {
+      "head": [
+        829.2,
+        178.8,
+        43.84
+      ],
+      "axis": [
+        0.35648655450913114,
+        0.9343004529883352
+      ],
+      "angle": -20.884579407713346,
+      "facing": -1,
+      "head_angle": -20.884579407713346
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 156,
+    "source_time": 7.090909090909091,
+    "actor_fit": {
+      "head": [
+        755.0,
+        200.0,
+        44.0
+      ],
+      "axis": [
+        0.5860948114023944,
+        0.8102424773160141
+      ],
+      "angle": -35.880371126400334,
+      "facing": 1,
+      "head_angle": -35.880371126400334
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 157,
+    "source_time": 7.136363636363637,
+    "actor_fit": {
+      "head": [
+        679.0,
+        210.0,
+        44.0
+      ],
+      "axis": [
+        0.5731648279039496,
+        0.8194401015655969
+      ],
+      "angle": -34.971215013578345,
+      "facing": 1,
+      "head_angle": -34.971215013578345
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 158,
+    "source_time": 7.181818181818182,
+    "actor_fit": {
+      "head": [
+        550.8,
+        272.4,
+        42.16
+      ],
+      "axis": [
+        0.6285235033552482,
+        0.7777905924669218
+      ],
+      "angle": -38.94127310528092,
+      "facing": 1,
+      "head_angle": -38.94127310528092
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 159,
+    "source_time": 7.2272727272727275,
+    "actor_fit": {
+      "head": [
+        442.8,
+        370.8,
+        46.0
+      ],
+      "axis": [
+        0.8302763118582293,
+        0.5573519946740089
+      ],
+      "angle": -56.12713237951783,
+      "facing": 1,
+      "head_angle": -56.12713237951783
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 160,
+    "source_time": 7.2727272727272725,
+    "actor_fit": {
+      "head": [
+        442.2,
+        405.6,
+        45.34
+      ],
+      "axis": [
+        0.8594625529182085,
+        0.5111987090469965
+      ],
+      "angle": -59.25629181818005,
+      "facing": 1,
+      "head_angle": -59.25629181818005
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 161,
+    "source_time": 7.318181818181818,
+    "actor_fit": {
+      "head": [
+        441.59999999999997,
+        440.40000000000003,
+        44.68
+      ],
+      "axis": [
+        0.9812347807159136,
+        0.19281676564394737
+      ],
+      "angle": -78.88278674248723,
+      "facing": 1,
+      "head_angle": -78.88278674248723
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 162,
+    "source_time": 7.363636363636363,
+    "actor_fit": {
+      "head": [
+        441.0,
+        475.20000000000005,
+        44.019999999999996
+      ],
+      "axis": [
+        0.7814405475551564,
+        -0.6239797037057354
+      ],
+      "angle": -128.6073395411778,
+      "facing": 1,
+      "head_angle": -128.6073395411778
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 163,
+    "source_time": 7.409090909090909,
+    "actor_fit": {
+      "head": [
+        440.4,
+        510.0,
+        43.36
+      ],
+      "axis": [
+        0.2723193001838824,
+        -0.9622069417476474
+      ],
+      "angle": -164.1976745465651,
+      "facing": 1,
+      "head_angle": -164.1976745465651
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 164,
+    "source_time": 7.454545454545454,
+    "actor_fit": {
+      "head": [
+        469.2,
+        490.8,
+        41.68
+      ],
+      "axis": [
+        -0.5131341533875393,
+        -0.8583084181267555
+      ],
+      "angle": -210.87282055726337,
+      "facing": 1,
+      "head_angle": -210.87282055726337
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 165,
+    "source_time": 7.5,
+    "actor_fit": {
+      "head": [
+        464.4,
+        438.0,
+        44.08
+      ],
+      "axis": [
+        -0.8227863093962815,
+        -0.5683508503293073
+      ],
+      "angle": -235.36469458551647,
+      "facing": 1,
+      "head_angle": -235.36469458551647
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 166,
+    "source_time": 7.545454545454546,
+    "actor_fit": {
+      "head": [
+        406.0,
+        366.0,
+        42.99
+      ],
+      "axis": [
+        -0.8555531180303627,
+        0.5177150396004776
+      ],
+      "angle": 58.82089469817586,
+      "facing": 1,
+      "head_angle": 58.82089469817586
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 167,
+    "source_time": 7.590909090909091,
+    "actor_fit": {
+      "head": [
+        361.0,
+        353.0,
+        43.54
+      ],
+      "axis": [
+        -0.7865355936227741,
+        0.6175449457039305
+      ],
+      "angle": 51.86292578528244,
+      "facing": 1,
+      "head_angle": 51.86292578528244
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 168,
+    "source_time": 7.636363636363637,
+    "actor_fit": {
+      "head": [
+        336.0,
+        338.0,
+        42.94
+      ],
+      "axis": [
+        -0.7158389125562351,
+        0.6982654590270858
+      ],
+      "angle": 45.711993336780694,
+      "facing": 1,
+      "head_angle": 45.711993336780694
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 169,
+    "source_time": 7.681818181818182,
+    "actor_fit": {
+      "head": [
+        313.2,
+        325.2,
+        41.68
+      ],
+      "axis": [
+        -0.638849402629015,
+        0.769331814473151
+      ],
+      "angle": 39.70607576183619,
+      "facing": 1,
+      "head_angle": 39.70607576183619
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 170,
+    "source_time": 7.7272727272727275,
+    "actor_fit": {
+      "head": [
+        288.0,
+        308.0,
+        45.16
+      ],
+      "axis": [
+        -0.6157814008012158,
+        0.7879170428587596
+      ],
+      "angle": 38.00872022640593,
+      "facing": 1,
+      "head_angle": 38.00872022640593
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 171,
+    "source_time": 7.7727272727272725,
+    "actor_fit": {
+      "head": [
+        632.4,
+        212.4,
+        96.88
+      ],
+      "axis": [
+        -0.0008758648719325894,
+        0.9999996164302895
+      ],
+      "angle": 0.050183367001778834,
+      "facing": -1,
+      "head_angle": 0.050183367001778834
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 172,
+    "source_time": 7.818181818181818,
+    "actor_fit": {
+      "head": [
+        639.6,
+        183.6,
+        97.12
+      ],
+      "axis": [
+        0.16445908876434268,
+        0.9863839050404271
+      ],
+      "angle": -9.465813285318731,
+      "facing": 1,
+      "head_angle": -9.465813285318731
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 173,
+    "source_time": 7.863636363636363,
+    "actor_fit": {
+      "head": [
+        634.8,
+        181.2,
+        95.68
+      ],
+      "axis": [
+        0.2020741463914876,
+        0.9793702258901644
+      ],
+      "angle": -11.65827573845857,
+      "facing": 1,
+      "head_angle": -11.65827573845857
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 174,
+    "source_time": 7.909090909090909,
+    "actor_fit": {
+      "head": [
+        627.6,
+        195.6,
+        94.96
+      ],
+      "axis": [
+        0.18636590602370187,
+        0.9824804064570268
+      ],
+      "angle": -10.740778117256852,
+      "facing": 1,
+      "head_angle": -10.740778117256852
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 175,
+    "source_time": 7.954545454545454,
+    "actor_fit": {
+      "head": [
+        618.0,
+        207.6,
+        97.6
+      ],
+      "axis": [
+        0.15999892477135538,
+        0.987117188621498
+      ],
+      "angle": -9.206833811259742,
+      "facing": 1,
+      "head_angle": -9.206833811259742
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 176,
+    "source_time": 8.0,
+    "actor_fit": {
+      "head": [
+        615.6,
+        212.4,
+        99.28
+      ],
+      "axis": [
+        0.12801781941844176,
+        0.9917718678765532
+      ],
+      "angle": -7.355064657108585,
+      "facing": 1,
+      "head_angle": -7.355064657108585
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 177,
+    "source_time": 8.045454545454545,
+    "actor_fit": {
+      "head": [
+        613.2,
+        207.6,
+        97.12
+      ],
+      "axis": [
+        0.09949511267251276,
+        0.9950380508072463
+      ],
+      "angle": -5.7100975708646615,
+      "facing": 1,
+      "head_angle": -5.7100975708646615
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 178,
+    "source_time": 8.090909090909092,
+    "actor_fit": {
+      "head": [
+        613.2,
+        202.8,
+        97.84
+      ],
+      "axis": [
+        0.07240805750179719,
+        0.997375091532176
+      ],
+      "angle": -4.152309878222795,
+      "facing": 1,
+      "head_angle": -4.152309878222795
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 179,
+    "source_time": 8.136363636363637,
+    "actor_fit": {
+      "head": [
+        613.2,
+        188.4,
+        95.44
+      ],
+      "axis": [
+        0.06297895015641351,
+        0.9980148555192934
+      ],
+      "angle": -3.610817690090812,
+      "facing": 1,
+      "head_angle": -3.610817690090812
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 180,
+    "source_time": 8.181818181818182,
+    "actor_fit": {
+      "head": [
+        615.6,
+        183.6,
+        95.44
+      ],
+      "axis": [
+        0.04661060702911138,
+        0.9989131350184448
+      ],
+      "angle": -2.671559008103003,
+      "facing": 1,
+      "head_angle": -2.671559008103003
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 181,
+    "source_time": 8.227272727272727,
+    "actor_fit": {
+      "head": [
+        615.6,
+        181.2,
+        96.4
+      ],
+      "axis": [
+        0.043132688815328224,
+        0.9990693525254191
+      ],
+      "angle": -2.472087956564266,
+      "facing": 1,
+      "head_angle": -2.472087956564266
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 182,
+    "source_time": 8.272727272727273,
+    "actor_fit": {
+      "head": [
+        620.4,
+        176.4,
+        95.44
+      ],
+      "axis": [
+        0.018843380335854063,
+        0.9998224477463578
+      ],
+      "angle": -1.0797100674125772,
+      "facing": -1,
+      "head_angle": -1.0797100674125772
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 183,
+    "source_time": 8.318181818181818,
+    "actor_fit": {
+      "head": [
+        622.8,
+        176.4,
+        96.16
+      ],
+      "axis": [
+        0.002913439384378311,
+        0.9999957559264707
+      ],
+      "angle": -0.16692801674372504,
+      "facing": -1,
+      "head_angle": -0.16692801674372504
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 184,
+    "source_time": 8.363636363636363,
+    "actor_fit": {
+      "head": [
+        620.4,
+        174.0,
+        100.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 185,
+    "source_time": 8.409090909090908,
+    "actor_fit": {
+      "head": [
+        627.6,
+        171.6,
+        96.16
+      ],
+      "axis": [
+        -0.03712122543114552,
+        0.9993107697921052
+      ],
+      "angle": 2.127378321153685,
+      "facing": -1,
+      "head_angle": 2.127378321153685
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 186,
+    "source_time": 8.454545454545455,
+    "actor_fit": {
+      "head": [
+        625.2,
+        171.6,
+        99.04
+      ],
+      "axis": [
+        -0.04378422810506084,
+        0.9990410108545315
+      ],
+      "angle": 2.5094537105783985,
+      "facing": -1,
+      "head_angle": 2.5094537105783985
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 187,
+    "source_time": 8.5,
+    "actor_fit": {
+      "head": [
+        627.6,
+        174.0,
+        96.88
+      ],
+      "axis": [
+        -0.059357726571012064,
+        0.9982367756681383
+      ],
+      "angle": 3.402947502490946,
+      "facing": -1,
+      "head_angle": 3.402947502490946
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 188,
+    "source_time": 8.545454545454545,
+    "actor_fit": {
+      "head": [
+        625.2,
+        166.8,
+        96.88
+      ],
+      "axis": [
+        -0.04925023776627711,
+        0.9987864707133177
+      ],
+      "angle": 2.8229727764803556,
+      "facing": -1,
+      "head_angle": 2.8229727764803556
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 189,
+    "source_time": 8.590909090909092,
+    "actor_fit": {
+      "head": [
+        620.4,
+        162.0,
+        97.84
+      ],
+      "axis": [
+        -0.017858238948440717,
+        0.9998405289353199
+      ],
+      "angle": 1.023256115107472,
+      "facing": -1,
+      "head_angle": 1.023256115107472
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 190,
+    "source_time": 8.636363636363637,
+    "actor_fit": {
+      "head": [
+        613.2,
+        157.2,
+        98.08
+      ],
+      "axis": [
+        0.037122335662357946,
+        0.9993107285499198
+      ],
+      "angle": -2.127441976591001,
+      "facing": -1,
+      "head_angle": -2.127441976591001
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 191,
+    "source_time": 8.681818181818182,
+    "actor_fit": {
+      "head": [
+        608.4,
+        159.6,
+        100.24
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 192,
+    "source_time": 8.727272727272727,
+    "actor_fit": {
+      "head": [
+        608.4,
+        159.6,
+        100.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 193,
+    "source_time": 8.772727272727273,
+    "actor_fit": {
+      "head": [
+        589.2,
+        409.2,
+        146.8
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 194,
+    "source_time": 8.818181818181818,
+    "actor_fit": {
+      "head": [
+        617.0,
+        175.0,
+        90.0
+      ],
+      "axis": [
+        0.10073402030749154,
+        0.9949133917847773
+      ],
+      "angle": -5.781440185563852,
+      "facing": -1,
+      "head_angle": -5.781440185563852
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 195,
+    "source_time": 8.863636363636363,
+    "actor_fit": {
+      "head": [
+        610.8,
+        169.2,
+        83.92
+      ],
+      "axis": [
+        0.16363639493425386,
+        0.9865207196267705
+      ],
+      "angle": -9.418029037693145,
+      "facing": -1,
+      "head_angle": -9.418029037693145
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 196,
+    "source_time": 8.909090909090908,
+    "actor_fit": {
+      "head": [
+        624.0,
+        171.6,
+        90.75999999999999
+      ],
+      "axis": [
+        0.10945624902346568,
+        0.9939916144262552
+      ],
+      "angle": -6.283971667078518,
+      "facing": -1,
+      "head_angle": -6.283971667078518
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 197,
+    "source_time": 8.954545454545455,
+    "actor_fit": {
+      "head": [
+        637.2,
+        174.0,
+        97.6
+      ],
+      "axis": [
+        0.0744289589963066,
+        0.9972263183764888
+      ],
+      "angle": -4.268412359902555,
+      "facing": -1,
+      "head_angle": -4.268412359902555
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 198,
+    "source_time": 9.0,
+    "actor_fit": {
+      "head": [
+        644.4,
+        178.8,
+        97.36
+      ],
+      "axis": [
+        0.10951749037553928,
+        0.993984868748938
+      ],
+      "angle": -6.28750176014961,
+      "facing": -1,
+      "head_angle": -6.28750176014961
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 199,
+    "source_time": 9.045454545454545,
+    "actor_fit": {
+      "head": [
+        627.6,
+        416.4,
+        141.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 200,
+    "source_time": 9.090909090909092,
+    "actor_fit": {
+      "head": [
+        687.6,
+        176.4,
+        95.44
+      ],
+      "axis": [
+        0.12454145357925393,
+        0.9922144054287695
+      ],
+      "angle": -7.154276083655134,
+      "facing": -1,
+      "head_angle": -7.154276083655134
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 201,
+    "source_time": 9.136363636363637,
+    "actor_fit": {
+      "head": [
+        704.4,
+        178.8,
+        97.36
+      ],
+      "axis": [
+        0.005979957858690844,
+        0.999982119892155
+      ],
+      "angle": -0.3426283890490254,
+      "facing": -1,
+      "head_angle": -0.3426283890490254
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 202,
+    "source_time": 9.181818181818182,
+    "actor_fit": {
+      "head": [
+        721.2,
+        176.4,
+        98.08
+      ],
+      "axis": [
+        -0.052494921350179774,
+        0.9986211910591716
+      ],
+      "angle": 3.0091205671851924,
+      "facing": -1,
+      "head_angle": 3.0091205671851924
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 203,
+    "source_time": 9.227272727272727,
+    "actor_fit": {
+      "head": [
+        735.6,
+        171.6,
+        97.84
+      ],
+      "axis": [
+        -0.0816286065215859,
+        0.996662816903161
+      ],
+      "angle": 4.682184236272633,
+      "facing": -1,
+      "head_angle": 4.682184236272633
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 204,
+    "source_time": 9.272727272727273,
+    "actor_fit": {
+      "head": [
+        748.4,
+        172.4,
+        97.76
+      ],
+      "axis": [
+        -0.08604686182529132,
+        0.9962910907812129
+      ],
+      "angle": 4.936226204844644,
+      "facing": -1,
+      "head_angle": 4.936226204844644
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 205,
+    "source_time": 9.318181818181818,
+    "actor_fit": {
+      "head": [
+        761.2,
+        173.2,
+        97.68
+      ],
+      "axis": [
+        -0.09576650931386213,
+        0.9954038254366104
+      ],
+      "angle": 5.495438716874688,
+      "facing": -1,
+      "head_angle": 5.495438716874688
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 206,
+    "source_time": 9.363636363636363,
+    "actor_fit": {
+      "head": [
+        774.0,
+        174.0,
+        97.6
+      ],
+      "axis": [
+        -0.11141580715075425,
+        0.9937738766525038
+      ],
+      "angle": 6.396937079284257,
+      "facing": -1,
+      "head_angle": 6.396937079284257
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 207,
+    "source_time": 9.409090909090908,
+    "actor_fit": {
+      "head": [
+        783.6,
+        169.2,
+        95.2
+      ],
+      "axis": [
+        -0.07955769734731238,
+        0.9968302627793728
+      ],
+      "angle": 4.5631426263798005,
+      "facing": -1,
+      "head_angle": 4.5631426263798005
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 208,
+    "source_time": 9.454545454545455,
+    "actor_fit": {
+      "head": [
+        788.4,
+        169.2,
+        97.6
+      ],
+      "axis": [
+        0.0001569620714153356,
+        0.9999999876814539
+      ],
+      "angle": -0.008993264272660895,
+      "facing": -1,
+      "head_angle": -0.008993264272660895
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 209,
+    "source_time": 9.5,
+    "actor_fit": {
+      "head": [
+        793.2,
+        169.2,
+        94.48
+      ],
+      "axis": [
+        0.08968691498825979,
+        0.9959700082230832
+      ],
+      "angle": -5.145595801499482,
+      "facing": -1,
+      "head_angle": -5.145595801499482
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 210,
+    "source_time": 9.545454545454545,
+    "actor_fit": {
+      "head": [
+        793.2,
+        171.6,
+        96.88
+      ],
+      "axis": [
+        0.12846085112694475,
+        0.9917145807780285
+      ],
+      "angle": -7.380659837436426,
+      "facing": -1,
+      "head_angle": -7.380659837436426
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 211,
+    "source_time": 9.590909090909092,
+    "actor_fit": {
+      "head": [
+        795.6,
+        171.6,
+        92.56
+      ],
+      "axis": [
+        0.1406337819260054,
+        0.9900616846344418
+      ],
+      "angle": -8.08452212490728,
+      "facing": -1,
+      "head_angle": -8.08452212490728
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 212,
+    "source_time": 9.636363636363637,
+    "actor_fit": {
+      "head": [
+        795.6,
+        174.0,
+        92.32
+      ],
+      "axis": [
+        0.08983506456413799,
+        0.9959566562731317
+      ],
+      "angle": -5.154118550424059,
+      "facing": -1,
+      "head_angle": -5.154118550424059
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 213,
+    "source_time": 9.681818181818182,
+    "actor_fit": {
+      "head": [
+        790.8,
+        176.4,
+        95.68
+      ],
+      "axis": [
+        0.049682597124225965,
+        0.9987650572296729
+      ],
+      "angle": -2.847775506933175,
+      "facing": 1,
+      "head_angle": -2.847775506933175
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 214,
+    "source_time": 9.727272727272727,
+    "actor_fit": {
+      "head": [
+        793.2,
+        176.4,
+        88.96
+      ],
+      "axis": [
+        0.023294934823994154,
+        0.9997286361866133
+      ],
+      "angle": -1.3348221924450883,
+      "facing": -1,
+      "head_angle": -1.3348221924450883
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 215,
+    "source_time": 9.772727272727273,
+    "actor_fit": {
+      "head": [
+        786.0,
+        181.2,
+        90.64
+      ],
+      "axis": [
+        -0.012401437651106758,
+        0.9999230992152275
+      ],
+      "angle": 0.710568251815161,
+      "facing": 1,
+      "head_angle": 0.710568251815161
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 216,
+    "source_time": 9.818181818181818,
+    "actor_fit": {
+      "head": [
+        778.8,
+        181.2,
+        86.56
+      ],
+      "axis": [
+        -3.1569127434566392e-06,
+        0.9999999999950169
+      ],
+      "angle": 0.00018087777648645442,
+      "facing": 1,
+      "head_angle": 0.00018087777648645442
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 217,
+    "source_time": 9.863636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 218,
+    "source_time": 9.909090909090908,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 219,
+    "source_time": 9.954545454545455,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 220,
+    "source_time": 10.0,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 221,
+    "source_time": 10.045454545454545,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 222,
+    "source_time": 10.090909090909092,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 223,
+    "source_time": 10.136363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 224,
+    "source_time": 10.181818181818182,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 225,
+    "source_time": 10.227272727272727,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 226,
+    "source_time": 10.272727272727273,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 227,
+    "source_time": 10.318181818181818,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 228,
+    "source_time": 10.363636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 229,
+    "source_time": 10.409090909090908,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 230,
+    "source_time": 10.454545454545455,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 231,
+    "source_time": 10.5,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 232,
+    "source_time": 10.545454545454545,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 233,
+    "source_time": 10.590909090909092,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 234,
+    "source_time": 10.636363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 235,
+    "source_time": 10.681818181818182,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 236,
+    "source_time": 10.727272727272727,
+    "actor_fit": {
+      "head": [
+        529.2,
+        210.0,
+        68.08
+      ],
+      "axis": [
+        -0.03268324854814295,
+        0.9994657599259419
+      ],
+      "angle": 1.8729457486915067,
+      "facing": 1,
+      "head_angle": 1.8729457486915067
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 237,
+    "source_time": 10.772727272727273,
+    "actor_fit": {
+      "head": [
+        538.8,
+        212.4,
+        64.24
+      ],
+      "axis": [
+        0.01121383528755916,
+        0.9999371229723114
+      ],
+      "angle": -0.6425189007480299,
+      "facing": 1,
+      "head_angle": -0.6425189007480299
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 238,
+    "source_time": 10.818181818181818,
+    "actor_fit": {
+      "head": [
+        553.2,
+        226.8,
+        67.6
+      ],
+      "axis": [
+        0.1240051676191025,
+        0.9922815721375452
+      ],
+      "angle": -7.1233091059155385,
+      "facing": 1,
+      "head_angle": -7.1233091059155385
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 239,
+    "source_time": 10.863636363636363,
+    "actor_fit": {
+      "head": [
+        555.6,
+        222.0,
+        62.32
+      ],
+      "axis": [
+        0.03319940287827811,
+        0.9994487478848156
+      ],
+      "angle": -1.9025352723267588,
+      "facing": 1,
+      "head_angle": -1.9025352723267588
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 240,
+    "source_time": 10.909090909090908,
+    "actor_fit": {
+      "head": [
+        546.0,
+        226.8,
+        63.28
+      ],
+      "axis": [
+        -0.1506216665015969,
+        0.9885914796215278
+      ],
+      "angle": 8.66295475002731,
+      "facing": 1,
+      "head_angle": 8.66295475002731
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 241,
+    "source_time": 10.954545454545455,
+    "actor_fit": {
+      "head": [
+        560.4,
+        224.4,
+        60.16
+      ],
+      "axis": [
+        -0.11109334441293887,
+        0.9938099762163529
+      ],
+      "angle": 6.378345910173792,
+      "facing": 1,
+      "head_angle": 6.378345910173792
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 242,
+    "source_time": 11.0,
+    "actor_fit": {
+      "head": [
+        572.4,
+        231.6,
+        65.44
+      ],
+      "axis": [
+        -0.06803114682127535,
+        0.9976831977447461
+      ],
+      "angle": 3.9009106000075775,
+      "facing": 1,
+      "head_angle": 3.9009106000075775
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 243,
+    "source_time": 11.045454545454545,
+    "actor_fit": {
+      "head": [
+        584.4,
+        236.4,
+        65.68
+      ],
+      "axis": [
+        -0.034984592352581556,
+        0.999387851786244
+      ],
+      "angle": 2.0048786007708514,
+      "facing": 1,
+      "head_angle": 2.0048786007708514
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 244,
+    "source_time": 11.090909090909092,
+    "actor_fit": {
+      "head": [
+        603.5999999999999,
+        249.60000000000002,
+        65.08000000000001
+      ],
+      "axis": [
+        -0.1579364582798359,
+        0.9874492772522655
+      ],
+      "angle": 9.087141124871806,
+      "facing": 1,
+      "head_angle": 9.087141124871806
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 245,
+    "source_time": 11.136363636363637,
+    "actor_fit": {
+      "head": [
+        622.8,
+        262.8,
+        64.48
+      ],
+      "axis": [
+        -0.27778862528011583,
+        0.9606422225079342
+      ],
+      "angle": 16.128267191893286,
+      "facing": 1,
+      "head_angle": 16.128267191893286
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 246,
+    "source_time": 11.181818181818182,
+    "actor_fit": {
+      "head": [
+        610.8,
+        260.4,
+        63.28
+      ],
+      "axis": [
+        -0.25484711753327766,
+        0.966981357982138
+      ],
+      "angle": 14.76452633858213,
+      "facing": 1,
+      "head_angle": 14.76452633858213
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 247,
+    "source_time": 11.227272727272727,
+    "actor_fit": {
+      "head": [
+        598.8,
+        253.2,
+        64.24
+      ],
+      "axis": [
+        0.026876715535990497,
+        0.9996387558323243
+      ],
+      "angle": -1.5401078235088193,
+      "facing": 1,
+      "head_angle": -1.5401078235088193
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 248,
+    "source_time": 11.272727272727273,
+    "actor_fit": {
+      "head": [
+        591.6,
+        258.0,
+        65.92
+      ],
+      "axis": [
+        -0.016323601929826563,
+        0.9998667611337205
+      ],
+      "angle": 0.9353150375047363,
+      "facing": 1,
+      "head_angle": 0.9353150375047363
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 249,
+    "source_time": 11.318181818181818,
+    "actor_fit": {
+      "head": [
+        584.4,
+        255.6,
+        63.04
+      ],
+      "axis": [
+        -0.04512415235255854,
+        0.9989813866506538
+      ],
+      "angle": 2.5863016906967573,
+      "facing": 1,
+      "head_angle": 2.5863016906967573
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 250,
+    "source_time": 11.363636363636363,
+    "actor_fit": {
+      "head": [
+        582.0,
+        262.8,
+        66.16
+      ],
+      "axis": [
+        -0.04053222186925341,
+        0.9991782318437195
+      ],
+      "angle": 2.3229615942184267,
+      "facing": 1,
+      "head_angle": 2.3229615942184267
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 251,
+    "source_time": 11.409090909090908,
+    "actor_fit": {
+      "head": [
+        603.6,
+        279.6,
+        67.47999999999999
+      ],
+      "axis": [
+        0.05243599515059338,
+        0.9986242869130346
+      ],
+      "angle": -3.0057396882944403,
+      "facing": 1,
+      "head_angle": -3.0057396882944403
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 252,
+    "source_time": 11.454545454545455,
+    "actor_fit": {
+      "head": [
+        625.2,
+        296.4,
+        68.8
+      ],
+      "axis": [
+        -0.07690514135460051,
+        0.9970384141211555
+      ],
+      "angle": 4.410695100216529,
+      "facing": 1,
+      "head_angle": 4.410695100216529
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 253,
+    "source_time": 11.5,
+    "actor_fit": {
+      "head": [
+        606.0,
+        267.6,
+        66.88
+      ],
+      "axis": [
+        0.04943608016356419,
+        0.9987772894785212
+      ],
+      "angle": -2.83363374781014,
+      "facing": 1,
+      "head_angle": -2.83363374781014
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 254,
+    "source_time": 11.545454545454545,
+    "actor_fit": {
+      "head": [
+        591.6,
+        250.8,
+        62.32
+      ],
+      "axis": [
+        0.0831508673279505,
+        0.9965369703441059
+      ],
+      "angle": -4.769700904820581,
+      "facing": 1,
+      "head_angle": -4.769700904820581
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 255,
+    "source_time": 11.590909090909092,
+    "actor_fit": {
+      "head": [
+        562.8,
+        243.6,
+        61.12
+      ],
+      "axis": [
+        -0.24839248645142475,
+        0.968659471989243
+      ],
+      "angle": 14.382408186482621,
+      "facing": 1,
+      "head_angle": 14.382408186482621
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 256,
+    "source_time": 11.636363636363637,
+    "actor_fit": {
+      "head": [
+        565.1999999999999,
+        251.6,
+        60.4
+      ],
+      "axis": [
+        0.05149258952929909,
+        0.9986733766470233
+      ],
+      "angle": -2.9516133981220776,
+      "facing": 1,
+      "head_angle": -2.9516133981220776
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 257,
+    "source_time": 11.681818181818182,
+    "actor_fit": {
+      "head": [
+        567.5999999999999,
+        259.6,
+        59.68
+      ],
+      "axis": [
+        0.03361138698560082,
+        0.9994349777073565
+      ],
+      "angle": -1.9261534047269464,
+      "facing": 1,
+      "head_angle": -1.9261534047269464
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 258,
+    "source_time": 11.727272727272727,
+    "actor_fit": {
+      "head": [
+        570.0,
+        267.6,
+        58.96
+      ],
+      "axis": [
+        -0.06488295653292718,
+        0.9978928810005341
+      ],
+      "angle": 3.7201328597772516,
+      "facing": 1,
+      "head_angle": 3.7201328597772516
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 259,
+    "source_time": 11.772727272727273,
+    "actor_fit": {
+      "head": [
+        562.8,
+        250.8,
+        61.36
+      ],
+      "axis": [
+        -0.0015556674554266774,
+        0.999998789948652
+      ],
+      "angle": 0.08913321547373698,
+      "facing": 1,
+      "head_angle": 0.08913321547373698
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 260,
+    "source_time": 11.818181818181818,
+    "actor_fit": {
+      "head": [
+        565.2,
+        243.6,
+        64.0
+      ],
+      "axis": [
+        0.05145210477242325,
+        0.9986754632584539
+      ],
+      "angle": -2.949290713514415,
+      "facing": 1,
+      "head_angle": -2.949290713514415
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 261,
+    "source_time": 11.863636363636363,
+    "actor_fit": {
+      "head": [
+        567.6,
+        258.0,
+        62.32
+      ],
+      "axis": [
+        -0.07866788992355381,
+        0.9969008792728471
+      ],
+      "angle": 4.512000117241556,
+      "facing": 1,
+      "head_angle": 4.512000117241556
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 262,
+    "source_time": 11.909090909090908,
+    "actor_fit": {
+      "head": [
+        579.6,
+        284.4,
+        65.68
+      ],
+      "axis": [
+        -0.10408432565428805,
+        0.9945684758492459
+      ],
+      "angle": 5.974413218510165,
+      "facing": 1,
+      "head_angle": 5.974413218510165
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 263,
+    "source_time": 11.954545454545455,
+    "actor_fit": {
+      "head": [
+        584.4,
+        320.4,
+        74.8
+      ],
+      "axis": [
+        0.028314211638258695,
+        0.9995990723381569
+      ],
+      "angle": -1.6225016681753743,
+      "facing": 1,
+      "head_angle": -1.6225016681753743
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 264,
+    "source_time": 12.0,
+    "actor_fit": {
+      "head": [
+        627.6,
+        322.8,
+        73.12
+      ],
+      "axis": [
+        -0.11132937855470303,
+        0.9937835626888903
+      ],
+      "angle": 6.391954084899453,
+      "facing": 1,
+      "head_angle": 6.391954084899453
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 265,
+    "source_time": 12.045454545454545,
+    "actor_fit": {
+      "head": [
+        613.2,
+        310.8,
+        71.2
+      ],
+      "axis": [
+        -0.15186930555039244,
+        0.9884005837875863
+      ],
+      "angle": 8.735271117588852,
+      "facing": 1,
+      "head_angle": 8.735271117588852
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 266,
+    "source_time": 12.090909090909092,
+    "actor_fit": {
+      "head": [
+        548.4,
+        272.4,
+        68.8
+      ],
+      "axis": [
+        -0.24517551103494045,
+        0.9694787098171654
+      ],
+      "angle": 14.192206118720591,
+      "facing": 1,
+      "head_angle": 14.192206118720591
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 267,
+    "source_time": 12.136363636363637,
+    "actor_fit": {
+      "head": [
+        526.8,
+        267.6,
+        66.16
+      ],
+      "axis": [
+        -0.2013127472792077,
+        0.9795270173828273
+      ],
+      "angle": 11.613735420061047,
+      "facing": 1,
+      "head_angle": 11.613735420061047
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 268,
+    "source_time": 12.181818181818182,
+    "actor_fit": {
+      "head": [
+        493.2,
+        284.4,
+        66.16
+      ],
+      "axis": [
+        -0.1874793469897975,
+        0.9822685449775326
+      ],
+      "angle": 10.805718181195473,
+      "facing": 1,
+      "head_angle": 10.805718181195473
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 269,
+    "source_time": 12.227272727272727,
+    "actor_fit": {
+      "head": [
+        459.6,
+        284.4,
+        67.12
+      ],
+      "axis": [
+        -0.13298286743383095,
+        0.9911183365113755
+      ],
+      "angle": 7.641995018863838,
+      "facing": 1,
+      "head_angle": 7.641995018863838
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 270,
+    "source_time": 12.272727272727273,
+    "actor_fit": {
+      "head": [
+        442.8,
+        277.2,
+        60.16
+      ],
+      "axis": [
+        -0.13028496228384004,
+        0.9914765900426991
+      ],
+      "angle": 7.48605950108707,
+      "facing": 1,
+      "head_angle": 7.48605950108707
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 271,
+    "source_time": 12.318181818181818,
+    "actor_fit": {
+      "head": [
+        423.6,
+        277.2,
+        62.56
+      ],
+      "axis": [
+        -0.07740956138576889,
+        0.9969993780369489
+      ],
+      "angle": 4.439682653396318,
+      "facing": 1,
+      "head_angle": 4.439682653396318
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 272,
+    "source_time": 12.363636363636363,
+    "actor_fit": {
+      "head": [
+        421.2,
+        286.8,
+        67.6
+      ],
+      "axis": [
+        -0.09250806435631212,
+        0.9957119352649382
+      ],
+      "angle": 5.307910717885164,
+      "facing": 1,
+      "head_angle": 5.307910717885164
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 273,
+    "source_time": 12.409090909090908,
+    "actor_fit": {
+      "head": [
+        421.2,
+        286.8,
+        65.92
+      ],
+      "axis": [
+        -0.15595255824215637,
+        0.9877645466292697
+      ],
+      "angle": 8.972045675926594,
+      "facing": 1,
+      "head_angle": 8.972045675926594
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 274,
+    "source_time": 12.454545454545455,
+    "actor_fit": {
+      "head": [
+        435.6,
+        291.6,
+        70.24
+      ],
+      "axis": [
+        -0.19585132386692083,
+        0.9806336007600263
+      ],
+      "angle": 11.294459847392062,
+      "facing": 1,
+      "head_angle": 11.294459847392062
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 275,
+    "source_time": 12.5,
+    "actor_fit": {
+      "head": [
+        558.0,
+        277.2,
+        102.64
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 276,
+    "source_time": 12.545454545454545,
+    "actor_fit": {
+      "head": [
+        567.6,
+        279.6,
+        124.72
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 277,
+    "source_time": 12.590909090909092,
+    "actor_fit": {
+      "head": [
+        613.2,
+        289.2,
+        123.28
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 278,
+    "source_time": 12.636363636363637,
+    "actor_fit": {
+      "head": [
+        622.8,
+        308.4,
+        125.92
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 279,
+    "source_time": 12.681818181818182,
+    "actor_fit": {
+      "head": [
+        637.2,
+        325.2,
+        124.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 280,
+    "source_time": 12.727272727272727,
+    "actor_fit": {
+      "head": [
+        637.2,
+        315.6,
+        125.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 281,
+    "source_time": 12.772727272727273,
+    "actor_fit": {
+      "head": [
+        668.4,
+        308.4,
+        112.24
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 282,
+    "source_time": 12.818181818181818,
+    "actor_fit": {
+      "head": [
+        550.8,
+        296.4,
+        128.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 283,
+    "source_time": 12.863636363636363,
+    "actor_fit": {
+      "head": [
+        572.4,
+        291.6,
+        120.88
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 284,
+    "source_time": 12.909090909090908,
+    "actor_fit": {
+      "head": [
+        512.4,
+        296.4,
+        125.68
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 285,
+    "source_time": 12.954545454545455,
+    "actor_fit": {
+      "head": [
+        483.6,
+        308.4,
+        124.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 286,
+    "source_time": 13.0,
+    "actor_fit": {
+      "head": [
+        502.8,
+        344.4,
+        167.68
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 287,
+    "source_time": 13.045454545454545,
+    "actor_fit": {
+      "head": [
+        584.4,
+        310.8,
+        137.44
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 288,
+    "source_time": 13.090909090909092,
+    "actor_fit": {
+      "head": [
+        548.4,
+        306.0,
+        136.72
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 289,
+    "source_time": 13.136363636363637,
+    "actor_fit": {
+      "head": [
+        723.6,
+        313.2,
+        149.92
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 290,
+    "source_time": 13.181818181818182,
+    "actor_fit": {
+      "head": [
+        704.4,
+        306.0,
+        135.04
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 291,
+    "source_time": 13.227272727272727,
+    "actor_fit": {
+      "head": [
+        838.8,
+        349.2,
+        148.48
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 292,
+    "source_time": 13.272727272727273,
+    "actor_fit": {
+      "head": [
+        853.2,
+        346.8,
+        139.36
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": -1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 293,
+    "source_time": 13.318181818181818,
+    "actor_fit": {
+      "head": [
+        853.2,
+        356.4,
+        134.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 294,
+    "source_time": 13.363636363636363,
+    "actor_fit": {
+      "head": [
+        778.8,
+        339.6,
+        186.16
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 295,
+    "source_time": 13.409090909090908,
+    "actor_fit": {
+      "head": [
+        618.0,
+        313.2,
+        145.84
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 296,
+    "source_time": 13.454545454545455,
+    "actor_fit": {
+      "head": [
+        651.6,
+        318.0,
+        192.4
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 297,
+    "source_time": 13.5,
+    "actor_fit": {
+      "head": [
+        596.4,
+        337.2,
+        155.92
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 298,
+    "source_time": 13.545454545454545,
+    "actor_fit": {
+      "head": [
+        661.2,
+        306.0,
+        145.6
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 299,
+    "source_time": 13.590909090909092,
+    "actor_fit": {
+      "head": [
+        589.2,
+        320.4,
+        151.84
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 300,
+    "source_time": 13.636363636363637,
+    "actor_fit": {
+      "head": [
+        574.8,
+        349.2,
+        151.36
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 301,
+    "source_time": 13.681818181818182,
+    "actor_fit": {
+      "head": [
+        577.2,
+        349.2,
+        146.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0,
+      "facing": 1,
+      "head_angle": 0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 302,
+    "source_time": 13.727272727272727,
+    "actor_fit": {
+      "head": [
+        574.8,
+        270.0,
+        73.84
+      ],
+      "axis": [
+        -0.2954262340114928,
+        0.9553655532087111
+      ],
+      "angle": 17.183097981766466,
+      "facing": 1,
+      "head_angle": 17.183097981766466
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 303,
+    "source_time": 13.772727272727273,
+    "actor_fit": {
+      "head": [
+        579.6,
+        274.8,
+        65.68
+      ],
+      "axis": [
+        -0.2697195865776331,
+        0.9629389101165196
+      ],
+      "angle": 15.647581305717921,
+      "facing": 1,
+      "head_angle": 15.647581305717921
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 304,
+    "source_time": 13.818181818181818,
+    "actor_fit": {
+      "head": [
+        625.2,
+        274.8,
+        72.88
+      ],
+      "axis": [
+        -0.25958999523254495,
+        0.9657189209988418
+      ],
+      "angle": 15.045735310679703,
+      "facing": 1,
+      "head_angle": 15.045735310679703
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 305,
+    "source_time": 13.863636363636363,
+    "actor_fit": {
+      "head": [
+        634.8,
+        284.4,
+        76.0
+      ],
+      "axis": [
+        -0.215115358194697,
+        0.9765886455764101
+      ],
+      "angle": 12.422295202270362,
+      "facing": 1,
+      "head_angle": 12.422295202270362
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 306,
+    "source_time": 13.909090909090908,
+    "actor_fit": {
+      "head": [
+        644.4,
+        277.2,
+        65.2
+      ],
+      "axis": [
+        -0.31637609274346723,
+        0.9486338429238002
+      ],
+      "angle": 18.44390725714895,
+      "facing": 1,
+      "head_angle": 18.44390725714895
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 307,
+    "source_time": 13.954545454545455,
+    "actor_fit": {
+      "head": [
+        639.6,
+        284.4,
+        69.76
+      ],
+      "axis": [
+        -0.28190861430610703,
+        0.9594412609326382
+      ],
+      "angle": 16.374149855415155,
+      "facing": 1,
+      "head_angle": 16.374149855415155
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 308,
+    "source_time": 14.0,
+    "actor_fit": {
+      "head": [
+        627.6,
+        272.4,
+        67.6
+      ],
+      "axis": [
+        -0.2529161032967928,
+        0.9674882142399287
+      ],
+      "angle": 14.650139500173324,
+      "facing": 1,
+      "head_angle": 14.650139500173324
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 309,
+    "source_time": 14.045454545454545,
+    "actor_fit": {
+      "head": [
+        620.4,
+        267.6,
+        72.64
+      ],
+      "axis": [
+        -0.20864189290253504,
+        0.9779921065765548
+      ],
+      "angle": 12.042775570220968,
+      "facing": 1,
+      "head_angle": 12.042775570220968
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 310,
+    "source_time": 14.090909090909092,
+    "actor_fit": {
+      "head": [
+        474.0,
+        358.8,
+        37.12
+      ],
+      "axis": [
+        0.7050223942383282,
+        0.7091850418772631
+      ],
+      "angle": -44.8313532750301,
+      "facing": 1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 311,
+    "source_time": 14.136363636363637,
+    "actor_fit": {
+      "head": [
+        601.2,
+        260.4,
+        65.92
+      ],
+      "axis": [
+        0.07341580953979349,
+        0.9973014182831672
+      ],
+      "angle": -4.21020391104075,
+      "facing": 1,
+      "head_angle": -4.21020391104075
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 312,
+    "source_time": 14.181818181818182,
+    "actor_fit": {
+      "head": [
+        615.6,
+        260.4,
+        66.16
+      ],
+      "axis": [
+        -0.05542203318098287,
+        0.9984630179621508
+      ],
+      "angle": 3.177076463301077,
+      "facing": 1,
+      "head_angle": 3.177076463301077
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 313,
+    "source_time": 14.227272727272727,
+    "actor_fit": {
+      "head": [
+        601.2,
+        260.4,
+        67.12
+      ],
+      "axis": [
+        -0.2170821143773706,
+        0.9761533463639052
+      ],
+      "angle": 12.537709108418966,
+      "facing": 1,
+      "head_angle": 12.537709108418966
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 314,
+    "source_time": 14.272727272727273,
+    "actor_fit": {
+      "head": [
+        613.2,
+        274.8,
+        84.4
+      ],
+      "axis": [
+        -0.20750784003145412,
+        0.9782333547397984
+      ],
+      "angle": 11.976345153826088,
+      "facing": 1,
+      "head_angle": 11.976345153826088
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 315,
+    "source_time": 14.318181818181818,
+    "actor_fit": {
+      "head": [
+        601.2,
+        255.6,
+        69.04
+      ],
+      "axis": [
+        -0.3063466675746413,
+        0.9519200172629589
+      ],
+      "angle": 17.839201006992425,
+      "facing": 1,
+      "head_angle": 17.839201006992425
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 316,
+    "source_time": 14.363636363636363,
+    "actor_fit": {
+      "head": [
+        589.2,
+        250.8,
+        75.28
+      ],
+      "axis": [
+        -0.2711485356346003,
+        0.962537516995162
+      ],
+      "angle": 15.732622840290915,
+      "facing": 1,
+      "head_angle": 15.732622840290915
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 317,
+    "source_time": 14.409090909090908,
+    "actor_fit": {
+      "head": [
+        591.6,
+        243.6,
+        65.92
+      ],
+      "axis": [
+        -0.45401519789798506,
+        0.890993939416904
+      ],
+      "angle": 27.001588215344583,
+      "facing": 1,
+      "head_angle": 27.001588215344583
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 318,
+    "source_time": 14.454545454545455,
+    "actor_fit": {
+      "head": [
+        649.2,
+        253.2,
+        64.0
+      ],
+      "axis": [
+        -0.7344167200832586,
+        0.6786988148377368
+      ],
+      "angle": 47.25795266921634,
+      "facing": 1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 319,
+    "source_time": 14.5,
+    "actor_fit": {
+      "head": [
+        714.0,
+        270.0,
+        64.96
+      ],
+      "axis": [
+        -0.8813712612446319,
+        0.4724242794904243
+      ],
+      "angle": 61.80822281989799,
+      "facing": 1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 320,
+    "source_time": 14.545454545454545,
+    "actor_fit": {
+      "head": [
+        790.8,
+        306.0,
+        66.88
+      ],
+      "axis": [
+        -0.944478980257007,
+        0.328571842756929
+      ],
+      "angle": 70.81788493098836,
+      "facing": -1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 321,
+    "source_time": 14.590909090909092,
+    "actor_fit": {
+      "head": [
+        838.8,
+        332.4,
+        67.84
+      ],
+      "axis": [
+        -0.9884455970000707,
+        0.1515760593602227
+      ],
+      "angle": 81.28172744213225,
+      "facing": -1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 322,
+    "source_time": 14.636363636363637,
+    "actor_fit": {
+      "head": [
+        886.8,
+        358.8,
+        68.8
+      ],
+      "axis": [
+        -0.9987507468419435,
+        -0.049969447492042456
+      ],
+      "angle": -267.1357687380924,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 323,
+    "source_time": 14.681818181818182,
+    "actor_fit": {
+      "head": [
+        891.6,
+        370.8,
+        69.76
+      ],
+      "axis": [
+        -0.9601764023404556,
+        -0.2793944816715952
+      ],
+      "angle": -253.7759311836229,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 324,
+    "source_time": 14.727272727272727,
+    "actor_fit": {
+      "head": [
+        793.2,
+        457.2,
+        64.0
+      ],
+      "axis": [
+        0.049917658068265584,
+        -0.9987533366217005
+      ],
+      "angle": -177.13873976121042,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 325,
+    "source_time": 14.772727272727273,
+    "actor_fit": {
+      "head": [
+        694.8,
+        531.6,
+        66.64
+      ],
+      "axis": [
+        0.585287254045782,
+        -0.8108260172512648
+      ],
+      "angle": -144.1767142152446,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 326,
+    "source_time": 14.818181818181818,
+    "actor_fit": {
+      "head": [
+        646.8,
+        466.8,
+        56.8
+      ],
+      "axis": [
+        0.9984136961048204,
+        -0.05630356498758678
+      ],
+      "angle": -93.22766351095214,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 327,
+    "source_time": 14.863636363636363,
+    "actor_fit": {
+      "head": [
+        646.8,
+        505.2,
+        60.4
+      ],
+      "axis": [
+        0.9955301040828584,
+        0.0944447556234506
+      ],
+      "angle": -84.58063703407572,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 328,
+    "source_time": 14.909090909090908,
+    "actor_fit": {
+      "head": [
+        646.8,
+        481.2,
+        62.32
+      ],
+      "axis": [
+        0.9943827632095986,
+        0.10584384834105022
+      ],
+      "angle": -83.92421355963268,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 329,
+    "source_time": 14.954545454545455,
+    "actor_fit": {
+      "head": [
+        649.2,
+        469.2,
+        60.64
+      ],
+      "axis": [
+        0.9234103214134427,
+        0.38381424974474626
+      ],
+      "angle": -67.42985285441402,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 330,
+    "source_time": 15.0,
+    "actor_fit": {
+      "head": [
+        634.8,
+        457.2,
+        58.24
+      ],
+      "axis": [
+        0.8216992698648223,
+        0.569921319046426
+      ],
+      "angle": -55.25526072592114,
+      "facing": -1,
+      "head_angle": -55.25526072592114
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 331,
+    "source_time": 15.045454545454545,
+    "actor_fit": {
+      "head": [
+        625.2,
+        469.2,
+        58.24
+      ],
+      "axis": [
+        0.7620117361541284,
+        0.6475632123301718
+      ],
+      "angle": -49.64187051631636,
+      "facing": -1,
+      "head_angle": -49.64187051631636
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 332,
+    "source_time": 15.090909090909092,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 333,
+    "source_time": 15.136363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 334,
+    "source_time": 15.181818181818182,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 335,
+    "source_time": 15.227272727272727,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 336,
+    "source_time": 15.272727272727273,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 337,
+    "source_time": 15.318181818181818,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 338,
+    "source_time": 15.363636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 339,
+    "source_time": 15.409090909090908,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 340,
+    "source_time": 15.454545454545455,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 341,
+    "source_time": 15.5,
+    "actor_fit": {
+      "head": [
+        692.4,
+        397.2,
+        210.88
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": -1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 342,
+    "source_time": 15.545454545454545,
+    "actor_fit": {
+      "head": [
+        690.0,
+        380.4,
+        229.36
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": -1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 343,
+    "source_time": 15.590909090909092,
+    "actor_fit": {
+      "head": [
+        678.0,
+        385.2,
+        233.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": -1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 344,
+    "source_time": 15.636363636363637,
+    "actor_fit": {
+      "head": [
+        654.0,
+        390.0,
+        232.96
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": -1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 345,
+    "source_time": 15.681818181818182,
+    "actor_fit": {
+      "head": [
+        610.8,
+        394.8,
+        233.2
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": -1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 346,
+    "source_time": 15.727272727272727,
+    "actor_fit": {
+      "head": [
+        423.6,
+        404.4,
+        241.6
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": -1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 347,
+    "source_time": 15.772727272727273,
+    "actor_fit": {
+      "head": [
+        248.4,
+        416.4,
+        248.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": 1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 348,
+    "source_time": 15.818181818181818,
+    "actor_fit": {
+      "head": [
+        46.8,
+        416.4,
+        248.56
+      ],
+      "axis": [
+        0,
+        1
+      ],
+      "angle": 0.0,
+      "facing": 1,
+      "head_angle": 0.0
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 349,
+    "source_time": 15.863636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 350,
+    "source_time": 15.909090909090908,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 351,
+    "source_time": 15.954545454545455,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 352,
+    "source_time": 16.0,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 353,
+    "source_time": 16.045454545454547,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 354,
+    "source_time": 16.09090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 355,
+    "source_time": 16.136363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 356,
+    "source_time": 16.181818181818183,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 357,
+    "source_time": 16.227272727272727,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 358,
+    "source_time": 16.272727272727273,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 359,
+    "source_time": 16.318181818181817,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 360,
+    "source_time": 16.363636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 361,
+    "source_time": 16.40909090909091,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 362,
+    "source_time": 16.454545454545453,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 363,
+    "source_time": 16.5,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 364,
+    "source_time": 16.545454545454547,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 365,
+    "source_time": 16.59090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 366,
+    "source_time": 16.636363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 367,
+    "source_time": 16.681818181818183,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 368,
+    "source_time": 16.727272727272727,
+    "actor_fit": {
+      "head": [
+        1220.4,
+        181.2,
+        89.2
+      ],
+      "axis": [
+        0.051867506668070704,
+        0.9986539749843474
+      ],
+      "angle": -2.9731233118063614,
+      "facing": -1,
+      "head_angle": -2.9731233118063614
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 369,
+    "source_time": 16.772727272727273,
+    "actor_fit": {
+      "head": [
+        1054.8,
+        181.2,
+        87.28
+      ],
+      "axis": [
+        0.1391269971909488,
+        0.9902745471093507
+      ],
+      "angle": -7.997332497298061,
+      "facing": -1,
+      "head_angle": -7.997332497298061
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 370,
+    "source_time": 16.818181818181817,
+    "actor_fit": {
+      "head": [
+        961.2,
+        181.2,
+        91.6
+      ],
+      "axis": [
+        0.13974812380324075,
+        0.9901870842893651
+      ],
+      "angle": -8.033271524539515,
+      "facing": -1,
+      "head_angle": -8.033271524539515
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 371,
+    "source_time": 16.863636363636363,
+    "actor_fit": {
+      "head": [
+        886.8,
+        193.2,
+        86.08
+      ],
+      "axis": [
+        0.27861810634212847,
+        0.9604019735601996
+      ],
+      "angle": -16.177746283715393,
+      "facing": -1,
+      "head_angle": -16.177746283715393
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 372,
+    "source_time": 16.90909090909091,
+    "actor_fit": {
+      "head": [
+        838.8,
+        214.8,
+        89.68
+      ],
+      "axis": [
+        0.3974289976009777,
+        0.917632928717078
+      ],
+      "angle": -23.417550781130956,
+      "facing": -1,
+      "head_angle": -23.417550781130956
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 373,
+    "source_time": 16.954545454545453,
+    "actor_fit": {
+      "head": [
+        853.2,
+        241.2,
+        96.4
+      ],
+      "axis": [
+        0.2965702934399275,
+        0.9550110266635434
+      ],
+      "angle": -17.25172295300598,
+      "facing": -1,
+      "head_angle": -17.25172295300598
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 374,
+    "source_time": 17.0,
+    "actor_fit": {
+      "head": [
+        848.4,
+        248.4,
+        85.36
+      ],
+      "axis": [
+        0.2709335557858195,
+        0.9625980512910113
+      ],
+      "angle": -15.719826403336313,
+      "facing": -1,
+      "head_angle": -15.719826403336313
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 375,
+    "source_time": 17.045454545454547,
+    "actor_fit": {
+      "head": [
+        1009.2,
+        246.0,
+        83.68
+      ],
+      "axis": [
+        0.030255199896815643,
+        0.9995422066522273
+      ],
+      "angle": -1.7337598383944481,
+      "facing": -1,
+      "head_angle": -1.7337598383944481
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 376,
+    "source_time": 17.09090909090909,
+    "actor_fit": {
+      "head": [
+        1054.8,
+        298.8,
+        98.08
+      ],
+      "axis": [
+        0.14706092253430422,
+        0.9891274362099959
+      ],
+      "angle": -8.456640921325189,
+      "facing": -1,
+      "head_angle": -8.456640921325189
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 377,
+    "source_time": 17.136363636363637,
+    "actor_fit": {
+      "head": [
+        1168.0,
+        310.0,
+        71.59
+      ],
+      "axis": [
+        0.06193413651283738,
+        0.9980802386253368
+      ],
+      "angle": -3.5508371742695886,
+      "facing": -1,
+      "head_angle": -3.5508371742695886
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 378,
+    "source_time": 17.181818181818183,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 379,
+    "source_time": 17.227272727272727,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 380,
+    "source_time": 17.272727272727273,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 381,
+    "source_time": 17.318181818181817,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 382,
+    "source_time": 17.363636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 383,
+    "source_time": 17.40909090909091,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 384,
+    "source_time": 17.454545454545453,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 385,
+    "source_time": 17.5,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 386,
+    "source_time": 17.545454545454547,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 387,
+    "source_time": 17.59090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 388,
+    "source_time": 17.636363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 389,
+    "source_time": 17.681818181818183,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 390,
+    "source_time": 17.727272727272727,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 391,
+    "source_time": 17.772727272727273,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 392,
+    "source_time": 17.818181818181817,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 393,
+    "source_time": 17.863636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 394,
+    "source_time": 17.90909090909091,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 395,
+    "source_time": 17.954545454545453,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 396,
+    "source_time": 18.0,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 397,
+    "source_time": 18.045454545454547,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 398,
+    "source_time": 18.09090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 399,
+    "source_time": 18.136363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 400,
+    "source_time": 18.181818181818183,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 401,
+    "source_time": 18.227272727272727,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 402,
+    "source_time": 18.272727272727273,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 403,
+    "source_time": 18.318181818181817,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 404,
+    "source_time": 18.363636363636363,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 405,
+    "source_time": 18.40909090909091,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 406,
+    "source_time": 18.454545454545453,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 407,
+    "source_time": 18.5,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 408,
+    "source_time": 18.545454545454547,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 409,
+    "source_time": 18.59090909090909,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 410,
+    "source_time": 18.636363636363637,
+    "actor_fit": null,
+    "source_derived": true
+  },
+  {
+    "frame": 411,
+    "source_time": 18.681818181818183,
+    "actor_fit": {
+      "head": [
+        291.6,
+        337.2,
+        96.16
+      ],
+      "axis": [
+        0.1357371943339813,
+        0.9907448783992471
+      ],
+      "angle": -7.801250414482666,
+      "facing": -1,
+      "head_angle": -7.801250414482666
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 412,
+    "source_time": 18.727272727272727,
+    "actor_fit": {
+      "head": [
+        418.8,
+        253.2,
+        82.96
+      ],
+      "axis": [
+        -0.030605110320519678,
+        0.9995315538902556
+      ],
+      "angle": 1.7538175177826076,
+      "facing": -1,
+      "head_angle": 1.7538175177826076
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 413,
+    "source_time": 18.772727272727273,
+    "actor_fit": {
+      "head": [
+        649.2,
+        267.6,
+        84.64
+      ],
+      "axis": [
+        0.10804180574283846,
+        0.9941463515055651
+      ],
+      "angle": -6.202446523395068,
+      "facing": -1,
+      "head_angle": -6.202446523395068
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 414,
+    "source_time": 18.818181818181817,
+    "actor_fit": {
+      "head": [
+        483.6,
+        265.2,
+        78.16
+      ],
+      "axis": [
+        0.2516630803627826,
+        0.9678149068816391
+      ],
+      "angle": -14.575946558575168,
+      "facing": -1,
+      "head_angle": -14.575946558575168
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 415,
+    "source_time": 18.863636363636363,
+    "actor_fit": {
+      "head": [
+        620.4,
+        277.2,
+        80.56
+      ],
+      "axis": [
+        0.19011930477117192,
+        0.9817609943124275
+      ],
+      "angle": -10.95974676869308,
+      "facing": -1,
+      "head_angle": -10.95974676869308
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 416,
+    "source_time": 18.90909090909091,
+    "actor_fit": {
+      "head": [
+        630.0,
+        272.4,
+        77.2
+      ],
+      "axis": [
+        0.26478293029788874,
+        0.9643080419776988
+      ],
+      "angle": -15.354054883679197,
+      "facing": -1,
+      "head_angle": -15.354054883679197
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 417,
+    "source_time": 18.954545454545453,
+    "actor_fit": {
+      "head": [
+        639.6,
+        250.8,
+        81.04
+      ],
+      "axis": [
+        0.22297308942936317,
+        0.9748246003206552
+      ],
+      "angle": -12.88371710147274,
+      "facing": -1,
+      "head_angle": -12.88371710147274
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 418,
+    "source_time": 19.0,
+    "actor_fit": {
+      "head": [
+        644.4000000000001,
+        242.4,
+        88.12
+      ],
+      "axis": [
+        0.21155424268492337,
+        0.9773662580639914
+      ],
+      "angle": -12.213450399576587,
+      "facing": -1,
+      "head_angle": -12.213450399576587
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 419,
+    "source_time": 19.045454545454547,
+    "actor_fit": {
+      "head": [
+        649.2,
+        234.0,
+        95.2
+      ],
+      "axis": [
+        0.17168533313328282,
+        0.9851518392546976
+      ],
+      "angle": -9.885822358141198,
+      "facing": -1,
+      "head_angle": -9.885822358141198
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 420,
+    "source_time": 19.09090909090909,
+    "actor_fit": {
+      "head": [
+        663.6,
+        253.2,
+        95.2
+      ],
+      "axis": [
+        0.10561290772263254,
+        0.9944073178141696
+      ],
+      "angle": -6.062479935251218,
+      "facing": -1,
+      "head_angle": -6.062479935251218
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 421,
+    "source_time": 19.136363636363637,
+    "actor_fit": {
+      "head": [
+        678.0,
+        260.4,
+        75.76
+      ],
+      "axis": [
+        0.15069236246641332,
+        0.9885807058072149
+      ],
+      "angle": -8.667052097178654,
+      "facing": -1,
+      "head_angle": -8.667052097178654
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 422,
+    "source_time": 19.181818181818183,
+    "actor_fit": {
+      "head": [
+        644.4,
+        307.59999999999997,
+        80.72
+      ],
+      "axis": [
+        0.34063982468855186,
+        0.9401938682187586
+      ],
+      "angle": -19.915860432488955,
+      "facing": -1,
+      "head_angle": -19.915860432488955
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 423,
+    "source_time": 19.227272727272727,
+    "actor_fit": {
+      "head": [
+        610.8,
+        354.79999999999995,
+        85.68
+      ],
+      "axis": [
+        0.30884089464057746,
+        0.9511137165437201
+      ],
+      "angle": -17.98939130541551,
+      "facing": -1,
+      "head_angle": -17.98939130541551
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 424,
+    "source_time": 19.272727272727273,
+    "actor_fit": {
+      "head": [
+        577.2,
+        402.0,
+        90.64
+      ],
+      "axis": [
+        0.0873719495453681,
+        0.9961757588059656
+      ],
+      "angle": -5.012435174311378,
+      "facing": -1,
+      "head_angle": -5.012435174311378
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 425,
+    "source_time": 19.318181818181817,
+    "actor_fit": {
+      "head": [
+        510.0,
+        517.2,
+        114.64
+      ],
+      "axis": [
+        -0.8868841861107695,
+        0.46199181857110627
+      ],
+      "angle": 62.484289217712245,
+      "facing": -1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 426,
+    "source_time": 19.363636363636363,
+    "actor_fit": {
+      "head": [
+        345.6,
+        493.20000000000005,
+        96.4
+      ],
+      "axis": [
+        0.9409451433511005,
+        0.3385590601416196
+      ],
+      "angle": -70.21089147403677,
+      "facing": -1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 427,
+    "source_time": 19.40909090909091,
+    "actor_fit": {
+      "head": [
+        181.2,
+        469.2,
+        78.16
+      ],
+      "axis": [
+        0.924744497781502,
+        0.38058850984079595
+      ],
+      "angle": -67.62985892826276,
+      "facing": 1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 428,
+    "source_time": 19.454545454545453,
+    "actor_fit": {
+      "head": [
+        157.2,
+        394.8,
+        81.76
+      ],
+      "axis": [
+        0.7901122177945594,
+        0.6129622201178166
+      ],
+      "angle": -52.19599965683731,
+      "facing": 1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 429,
+    "source_time": 19.5,
+    "actor_fit": {
+      "head": [
+        190.8,
+        327.6,
+        77.44
+      ],
+      "axis": [
+        0.6869160810272756,
+        0.7267367457519464
+      ],
+      "angle": -43.386483003498306,
+      "facing": 1,
+      "head_angle": -35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 430,
+    "source_time": 19.545454545454547,
+    "actor_fit": {
+      "head": [
+        198.0,
+        246.0,
+        76.0
+      ],
+      "axis": [
+        0.36941680550608985,
+        0.9292638074355827
+      ],
+      "angle": -21.679654670284933,
+      "facing": 1,
+      "head_angle": -21.679654670284933
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 431,
+    "source_time": 19.59090909090909,
+    "actor_fit": {
+      "head": [
+        241.2,
+        231.6,
+        77.44
+      ],
+      "axis": [
+        0.10627309087823535,
+        0.9943369801808571
+      ],
+      "angle": -6.100519724650354,
+      "facing": 1,
+      "head_angle": -6.100519724650354
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 432,
+    "source_time": 19.636363636363637,
+    "actor_fit": {
+      "head": [
+        255.6,
+        250.8,
+        82.24
+      ],
+      "axis": [
+        -0.0512853126815729,
+        0.9986840424794787
+      ],
+      "angle": 2.939721597076229,
+      "facing": 1,
+      "head_angle": 2.939721597076229
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 433,
+    "source_time": 19.681818181818183,
+    "actor_fit": {
+      "head": [
+        262.8,
+        265.2,
+        77.92
+      ],
+      "axis": [
+        -0.09529641792741649,
+        0.9954489402928727
+      ],
+      "angle": 5.468380711991699,
+      "facing": 1,
+      "head_angle": 5.468380711991699
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 434,
+    "source_time": 19.727272727272727,
+    "actor_fit": {
+      "head": [
+        298.8,
+        265.2,
+        78.4
+      ],
+      "axis": [
+        -0.1797060109937277,
+        0.9837203614913753
+      ],
+      "angle": 10.352636250833896,
+      "facing": 1,
+      "head_angle": 10.352636250833896
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 435,
+    "source_time": 19.772727272727273,
+    "actor_fit": {
+      "head": [
+        512.4,
+        236.4,
+        51.28
+      ],
+      "axis": [
+        -0.2959364678632971,
+        0.9552076250682863
+      ],
+      "angle": 17.213700573606957,
+      "facing": 1,
+      "head_angle": 17.213700573606957
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 436,
+    "source_time": 19.818181818181817,
+    "actor_fit": {
+      "head": [
+        550.0,
+        235.0,
+        48.0
+      ],
+      "axis": [
+        -0.895908133793816,
+        0.444239367686028
+      ],
+      "angle": 63.625316003775424,
+      "facing": 1,
+      "head_angle": 35
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 437,
+    "source_time": 19.863636363636363,
+    "actor_fit": {
+      "head": [
+        510.0,
+        240.0,
+        48.0
+      ],
+      "axis": [
+        -0.38698019610485695,
+        0.9220880260705301
+      ],
+      "angle": 22.76672839628415,
+      "facing": 1,
+      "head_angle": 22.76672839628415
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 438,
+    "source_time": 19.90909090909091,
+    "actor_fit": {
+      "head": [
+        450.0,
+        226.8,
+        46.24
+      ],
+      "axis": [
+        -0.44027156960477803,
+        0.8978646585080321
+      ],
+      "angle": 26.121209627326365,
+      "facing": 1,
+      "head_angle": 26.121209627326365
+    },
+    "source_derived": true
+  },
+  {
+    "frame": 439,
+    "source_time": 19.954545454545453,
+    "actor_fit": {
+      "head": [
+        402.0,
+        226.8,
+        48.4
+      ],
+      "axis": [
+        -0.36238861238589815,
+        0.9320270884545274
+      ],
+      "angle": 21.246961542668103,
+      "facing": 1,
+      "head_angle": 21.246961542668103
+    },
+    "source_derived": true
+  }
+]
