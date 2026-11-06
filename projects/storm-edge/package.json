@@ -1,0 +1,1 @@
+{"name":"storm-edge-hyperframes","version":"1.0.0","private":true,"type":"module","scripts":{"dev":"npx --yes hyperframes@0.8.181 preview","check":"npx --yes hyperframes@0.8.181 check","render":"npx --yes hyperframes@0.8.181 render --fps 24 --quality high --workers 2 --output renders/Storm-Edge-1920x1080.mp4"}}

@@ -1,0 +1,93 @@
+{
+  "format": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 24,
+    "duration_seconds": 24,
+    "expected_frames": 576
+  },
+  "art": {
+    "authored_pose_keys": 155,
+    "geometry": "redrawn per frame",
+    "presentation": "2D Canvas, optional PixiJS 7.4.3",
+    "camera_beats": 13
+  },
+  "provenance": {
+    "source_video_retained": false,
+    "source_audio_retained": false,
+    "sound": "original procedural synthesis",
+    "speech": false,
+    "music": false
+  },
+  "audio_stem_measurements": {
+    "integrated_lufs": -23.09,
+    "true_peak_dbtp": -0.71,
+    "lra_lu": 3.7
+  },
+  "review": {
+    "sampled_chromium_frame_inspection": true,
+    "full_speed_human_visual_playback": false,
+    "listening_audition": false,
+    "deterministic_seek": true
+  },
+  "encoded_media": {
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "index": 0,
+        "codec_name": "h264",
+        "width": 1920,
+        "height": 1080,
+        "r_frame_rate": "24/1",
+        "nb_frames": "576"
+      },
+      {
+        "index": 1,
+        "codec_name": "aac",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "nb_frames": "1126"
+      }
+    ],
+    "format": {
+      "duration": "24.000000",
+      "size": "13228375"
+    }
+  },
+  "checks": {
+    "lint": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "runtime": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "layout": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 1
+    },
+    "motion": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "contrast": {
+      "ok": true,
+      "errorCount": 0,
+      "warningCount": 0
+    },
+    "canvas_static_sweep_warning": "Reviewed: canvas pixel movement verified in encoded contact sheet and repeatable seeks."
+  },
+  "encoded_audio_measurements": {
+    "input_i": -23.2,
+    "input_tp": -1.11,
+    "input_lra": 3.8
+  },
+  "mp4_sha256": "235623934908c8a6824dbe548ed9099063e0bb74ea1cbfc9feba0fc5d474e149"
+}
