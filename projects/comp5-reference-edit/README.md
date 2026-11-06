@@ -20,7 +20,7 @@ The cutoff is **934 / (30000/1001) = 31.1644666667 seconds**, interpreting `00:0
 - `build.py`: deterministically builds the composition.
 - `DESIGN.md`: reference treatment and font disclosure.
 - `check.log`, `inspect.log`: passing checks for the camera-only composition; caption checks must be repeated after transcript integration.
-- `previews/`: 4K stills from the camera pass, without captions.
+- `previews/`: 4K framing studies using the opening video poster at selected camera positions, without captions. These are not rendered playback verification.
 
 ## Reproduce
 
