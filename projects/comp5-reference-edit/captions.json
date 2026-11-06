@@ -1,1 +1,600 @@
-[]
+[
+  {
+    "start": 0.0,
+    "end": 1.5015,
+    "side": "right",
+    "words": [
+      {
+        "text": "Imagine",
+        "start": 0.0,
+        "emphasis": false
+      },
+      {
+        "text": "you're",
+        "start": 0.6673333333333333,
+        "emphasis": false
+      },
+      {
+        "text": "dead.",
+        "start": 0.9676333333333333,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 1.7350666666666668,
+    "end": 3.036366666666667,
+    "side": "right",
+    "words": [
+      {
+        "text": "Not",
+        "start": 1.7350666666666668,
+        "emphasis": false
+      },
+      {
+        "text": "dying.",
+        "start": 2.135466666666667,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 3.036366666666667,
+    "end": 3.636966666666667,
+    "side": "right",
+    "words": [
+      {
+        "text": "DEAD.",
+        "start": 3.036366666666667,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 3.9039,
+    "end": 5.3053,
+    "side": "right",
+    "words": [
+      {
+        "text": "And",
+        "start": 3.9039,
+        "emphasis": false
+      },
+      {
+        "text": "all",
+        "start": 4.137466666666667,
+        "emphasis": false
+      },
+      {
+        "text": "of",
+        "start": 4.270933333333334,
+        "emphasis": false
+      },
+      {
+        "text": "sudden",
+        "start": 4.437766666666667,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 5.372033333333333,
+    "end": 5.9726333333333335,
+    "side": "right",
+    "words": [
+      {
+        "text": "you",
+        "start": 5.372033333333333,
+        "emphasis": false
+      },
+      {
+        "text": "realised",
+        "start": 5.5055000000000005,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 5.9726333333333335,
+    "end": 6.539866666666667,
+    "side": "right",
+    "words": [
+      {
+        "text": "that",
+        "start": 5.9726333333333335,
+        "emphasis": false
+      },
+      {
+        "text": "the",
+        "start": 6.1061000000000005,
+        "emphasis": false
+      },
+      {
+        "text": "time",
+        "start": 6.239566666666667,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 6.539866666666667,
+    "end": 7.374033333333333,
+    "side": "right",
+    "words": [
+      {
+        "text": "which",
+        "start": 6.539866666666667,
+        "emphasis": false
+      },
+      {
+        "text": "you",
+        "start": 6.8735333333333335,
+        "emphasis": false
+      },
+      {
+        "text": "spent",
+        "start": 7.007000000000001,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 7.374033333333333,
+    "end": 8.541866666666667,
+    "side": "right",
+    "words": [
+      {
+        "text": "in",
+        "start": 7.374033333333333,
+        "emphasis": false
+      },
+      {
+        "text": "building",
+        "start": 7.5075,
+        "emphasis": true
+      },
+      {
+        "text": "your",
+        "start": 7.974633333333333,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 8.641966666666667,
+    "end": 9.576233333333333,
+    "side": "right",
+    "words": [
+      {
+        "text": "image,",
+        "start": 8.641966666666667,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 9.843166666666667,
+    "end": 10.5105,
+    "side": "right",
+    "words": [
+      {
+        "text": "the",
+        "start": 9.843166666666667,
+        "emphasis": false
+      },
+      {
+        "text": "time",
+        "start": 9.976633333333334,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 10.5105,
+    "end": 11.378033333333333,
+    "side": "right",
+    "words": [
+      {
+        "text": "which",
+        "start": 10.5105,
+        "emphasis": false
+      },
+      {
+        "text": "you",
+        "start": 10.744066666666667,
+        "emphasis": false
+      },
+      {
+        "text": "spent",
+        "start": 10.977633333333333,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 11.378033333333333,
+    "end": 12.278933333333333,
+    "side": "right",
+    "words": [
+      {
+        "text": "in",
+        "start": 11.378033333333333,
+        "emphasis": false
+      },
+      {
+        "text": "building",
+        "start": 11.5115,
+        "emphasis": true
+      },
+      {
+        "text": "your",
+        "start": 12.1121,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 12.278933333333333,
+    "end": 13.246566666666666,
+    "side": "right",
+    "words": [
+      {
+        "text": "reputation,",
+        "start": 12.278933333333333,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 13.279933333333334,
+    "end": 14.047366666666667,
+    "side": "right",
+    "words": [
+      {
+        "text": "ah",
+        "start": 13.279933333333334,
+        "emphasis": false
+      },
+      {
+        "text": "none",
+        "start": 13.446766666666667,
+        "emphasis": true
+      },
+      {
+        "text": "of",
+        "start": 13.747066666666667,
+        "emphasis": false
+      },
+      {
+        "text": "it",
+        "start": 13.880533333333334,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 14.047366666666667,
+    "end": 15.081733333333334,
+    "side": "right",
+    "words": [
+      {
+        "text": "matters",
+        "start": 14.047366666666667,
+        "emphasis": true
+      },
+      {
+        "text": "anymore",
+        "start": 14.5145,
+        "emphasis": false
+      },
+      {
+        "text": "now.",
+        "start": 14.848166666666668,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 15.081733333333334,
+    "end": 15.648966666666666,
+    "side": "left",
+    "words": [
+      {
+        "text": "The",
+        "start": 15.081733333333334,
+        "emphasis": false
+      },
+      {
+        "text": "car",
+        "start": 15.2152,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 15.648966666666666,
+    "end": 17.083733333333335,
+    "side": "left",
+    "words": [
+      {
+        "text": "you",
+        "start": 15.648966666666666,
+        "emphasis": false
+      },
+      {
+        "text": "used",
+        "start": 15.949266666666666,
+        "emphasis": false
+      },
+      {
+        "text": "to",
+        "start": 16.182833333333335,
+        "emphasis": false
+      },
+      {
+        "text": "drive,",
+        "start": 16.249566666666666,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 17.517500000000002,
+    "end": 18.651966666666667,
+    "side": "left",
+    "words": [
+      {
+        "text": "the",
+        "start": 17.517500000000002,
+        "emphasis": false
+      },
+      {
+        "text": "neighbors",
+        "start": 17.684333333333335,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 18.752066666666668,
+    "end": 19.252566666666667,
+    "side": "left",
+    "words": [
+      {
+        "text": "you",
+        "start": 18.752066666666668,
+        "emphasis": false
+      },
+      {
+        "text": "used",
+        "start": 18.9189,
+        "emphasis": false
+      },
+      {
+        "text": "to",
+        "start": 19.185833333333335,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 19.252566666666667,
+    "end": 20.1201,
+    "side": "left",
+    "words": [
+      {
+        "text": "fight",
+        "start": 19.252566666666667,
+        "emphasis": true
+      },
+      {
+        "text": "with,",
+        "start": 19.652966666666668,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 20.6206,
+    "end": 21.8218,
+    "side": "right",
+    "words": [
+      {
+        "text": "the",
+        "start": 20.6206,
+        "emphasis": false
+      },
+      {
+        "text": "relationship",
+        "start": 20.854166666666668,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 21.8218,
+    "end": 23.056366666666666,
+    "side": "right",
+    "words": [
+      {
+        "text": "which",
+        "start": 21.8218,
+        "emphasis": false
+      },
+      {
+        "text": "kept",
+        "start": 22.288933333333333,
+        "emphasis": false
+      },
+      {
+        "text": "you",
+        "start": 22.589233333333333,
+        "emphasis": false
+      },
+      {
+        "text": "awake",
+        "start": 22.756066666666666,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 23.056366666666666,
+    "end": 23.4234,
+    "side": "right",
+    "words": [
+      {
+        "text": "whole",
+        "start": 23.056366666666666,
+        "emphasis": false
+      },
+      {
+        "text": "day",
+        "start": 23.289933333333334,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 23.4234,
+    "end": 24.5245,
+    "side": "right",
+    "words": [
+      {
+        "text": "and",
+        "start": 23.4234,
+        "emphasis": false
+      },
+      {
+        "text": "whole",
+        "start": 23.6236,
+        "emphasis": false
+      },
+      {
+        "text": "night,",
+        "start": 23.790433333333333,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 25.392033333333334,
+    "end": 27.027,
+    "side": "right",
+    "words": [
+      {
+        "text": "the",
+        "start": 25.392033333333334,
+        "emphasis": false
+      },
+      {
+        "text": "parents",
+        "start": 26.793433333333333,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 27.027,
+    "end": 27.894533333333335,
+    "side": "right",
+    "words": [
+      {
+        "text": "whom",
+        "start": 27.027,
+        "emphasis": false
+      },
+      {
+        "text": "you",
+        "start": 27.193833333333334,
+        "emphasis": false
+      },
+      {
+        "text": "used",
+        "start": 27.3273,
+        "emphasis": false
+      },
+      {
+        "text": "to",
+        "start": 27.494133333333334,
+        "emphasis": false
+      },
+      {
+        "text": "love",
+        "start": 27.6276,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 27.894533333333335,
+    "end": 29.062366666666666,
+    "side": "right",
+    "words": [
+      {
+        "text": "so",
+        "start": 27.894533333333335,
+        "emphasis": false
+      },
+      {
+        "text": "much",
+        "start": 28.094733333333334,
+        "emphasis": false
+      },
+      {
+        "text": "dearly,",
+        "start": 28.294933333333333,
+        "emphasis": true
+      }
+    ]
+  },
+  {
+    "start": 29.062366666666666,
+    "end": 30.2302,
+    "side": "right",
+    "words": [
+      {
+        "text": "ah",
+        "start": 29.062366666666666,
+        "emphasis": false
+      },
+      {
+        "text": "none",
+        "start": 29.696333333333335,
+        "emphasis": true
+      },
+      {
+        "text": "of",
+        "start": 29.863166666666668,
+        "emphasis": false
+      },
+      {
+        "text": "them",
+        "start": 30.063366666666667,
+        "emphasis": false
+      }
+    ]
+  },
+  {
+    "start": 30.2302,
+    "end": 31.164466666666666,
+    "side": "right",
+    "words": [
+      {
+        "text": "matters",
+        "start": 30.2302,
+        "emphasis": true
+      },
+      {
+        "text": "anymore",
+        "start": 30.663966666666667,
+        "emphasis": false
+      },
+      {
+        "text": "now.",
+        "start": 30.964266666666667,
+        "emphasis": false
+      }
+    ]
+  }
+]

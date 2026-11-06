@@ -1,0 +1,22 @@
+{
+  "file": "Comp-5-reference-edit-4K.mp4",
+  "bytes": 260635372,
+  "sha256": "9c9b1f7edfad6772e7883d2e27aa74ce06f3bb65beff3553cb7c42c02c5aefab",
+  "parts": [
+    {
+      "file": "Comp-5-reference-edit-4K.mp4.part01",
+      "bytes": 94371840,
+      "sha256": "5cd82dfeebb631ffbe7cfc1d19e68bcb93f72310c397750e7bfa0426a514e62e"
+    },
+    {
+      "file": "Comp-5-reference-edit-4K.mp4.part02",
+      "bytes": 94371840,
+      "sha256": "693e4bbf33b605cf648a5d2c728697c42a6d2bf1dda0c9e35ca47f0f32f26c58"
+    },
+    {
+      "file": "Comp-5-reference-edit-4K.mp4.part03",
+      "bytes": 71891692,
+      "sha256": "7dcd895aa6b939c064ae3b8ef7032a6112bb9ccc1a6defa455d57fafef56abbe"
+    }
+  ]
+}

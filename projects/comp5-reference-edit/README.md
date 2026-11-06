@@ -1,33 +1,38 @@
-# Comp 5 — HyperFrames reference edit
+# Comp 5 — Reference captions and camera motion
 
-**Work in progress. Final captioned MP4 is not rendered yet.**
+HyperFrames edit at **3840 × 2160, 30000/1001 fps**, using your supplied words. Captions end at **00:00:31:04** (frame 934; 31.1644667 seconds). The full source duration is retained: **2:27.6475**.
 
-The source video and both references were successfully downloaded and inspected. The HyperFrames composition is authored at **3840 × 2160, 30000/1001 fps** and retains the full **147.6475-second** source. The camera pass adds eased zoom-ins, pullbacks, and lateral reframing to the opening, returning to the original frame at the subtitle cutoff. The original audio is preserved.
+## Downloads
 
-Reference-1 typography: white sans serif, regular linking words and larger bold italic emphasis. Bundled Liberation Sans is an Arial-compatible approximation; the exact font in the raster reference is unverified.
+- **[Edited opening — 4K MP4](delivery/Comp-5-opening-4K.mp4)**: the complete captioned section, ready to download and watch. On the file page, click **Download raw file**.
+- **[Full-length video download parts](delivery/)**: full-quality MP4 split into pieces to meet GitHub's 100 MiB file limit. Download every `.partXX` file and `Join-Full-Video.html`. Open the HTML file, select all downloaded parts, and save the joined MP4. Joining restores the exact MP4; it does not transcode it.
+- The full-length MP4 is also available locally at `renders/Comp-5-reference-edit-4K.mp4` in the working environment.
 
-## Remaining blocker
+## Treatment
 
-`captions.json` is intentionally empty. The exact transcript must be supplied or transcribed before delivery. The local speech-recognition model is absent, and its download host `huggingface.co` is denied by the current network policy. Model downloads can also redirect to `*.xethub.hf.co`. Keep the existing Dropbox domains when adding those domains. No speech text has been invented.
+Reference-1 guides the white sans-serif captions: regular connecting words, larger bold italic emphasis, short phrases, and quick word entrances. The exact font in the raster reference is unverified; bundled Liberation Sans provides an Arial-compatible approximation. Caption placement alternates into the free space beside the speaker.
 
-The cutoff is **934 / (30000/1001) = 31.1644666667 seconds**, interpreting `00:00:31:04` as non-drop-frame source timecode. No caption may extend past this point.
+Reference-2 guides the eased zoom-ins, pullbacks and lateral reframing. Camera emphasis follows the opening statements and the image, reputation, car, neighbors, relationship, and parents phrases. The camera returns to the source framing at the caption cutoff.
 
-## Files
+All later source edits remain intact. Video from the next source keyframe (frame 944) onward is copied without re-encoding. Only the ten-frame bridge between the subtitle cutoff and that keyframe is encoded. The full-length export uses the original audio stream unchanged.
 
-- `index.html`: full-length HyperFrames composition.
+## Source and reproduction
+
+- `index.html`: full-length editable HyperFrames composition.
+- `captions.json`: 29 timed phrase groups with per-word entrances and emphasis.
+- `script.txt`: your exact supplied text, including spelling and punctuation.
+- `words.json`, `alignment-raw.json`: forced-alignment timing from PocketSphinx.
 - `camera.json`: editable camera keyframes.
-- `captions.json`: timed phrase groups, currently awaiting transcript.
-- `build.py`: deterministically builds the composition.
-- `DESIGN.md`: reference treatment and font disclosure.
-- `check.log`, `inspect.log`: passing checks for the camera-only composition; caption checks must be repeated after transcript integration.
-- `previews/`: 4K framing studies using the opening video poster at selected camera positions, without captions. These are not rendered playback verification.
+- `DESIGN.md`: reference treatment and typography.
+- `previews/`: exported-frame review stills.
+- `validation.json`: export dimensions, frame counts and audio verification.
 
-## Reproduce
+Download source media using `python download-source.py`. Then run `python build.py`, `npm run check`, and `node render-final.mjs`. The render uses HyperFrames 0.8.181 and requires Node.js 22+, Chrome and FFmpeg. If needed, point `HYPERFRAMES_BROWSER_PATH` to your installed Chrome executable. The short render is created in a temporary project; source and final delivery remain full length.
 
-1. Download the original Comp 5 to `assets/comp5.mp4` using `python download-source.py`.
-2. Fill `captions.json` with the verified timed speech. Group format:
-   `{ "start": 0.3, "end": 1.5, "side": "right", "words": [{ "text": "spoken word", "emphasis": true }] }`.
-3. Run `python build.py` and `npm run check`.
-4. Run `node render-final.mjs`. The render script refuses final export while captions are empty.
+The supplied transcript is already aligned and checked in. To realign, install `alignment-requirements.txt`, run `python align.py`, then `python make-captions.py` and `python build.py`. No Hugging Face download or API key is required.
 
-Source media and rendering caches are excluded from Git. No environment configuration or HyperFrames site was published.
+The full-length file can alternatively be joined and SHA-256 verified with `python delivery-join.py` after all download parts and `manifest.json` are in `delivery/`.
+
+## Verification
+
+The export contains exactly 4,425 frames on the source 29.97 fps grid. All 79 supplied words are retained in 29 non-overlapping caption groups; captions stop at frame 934. HyperFrames layout and contrast checks passed, and the complete MP4 decoded without errors. Original and exported audio hashes match. The first copied-tail frame matches the source pixel for pixel. Each download part has a SHA-256 checksum in the manifest.

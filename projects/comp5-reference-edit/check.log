@@ -16,7 +16,94 @@
 [hyperframes] browserGpuMode probe → software (WebGL renderer vendor="Google Inc. (Mesa)" renderer="ANGLE (Mesa, llvmpipe (LLVM 19.1.7 256 bits), OpenGL ES 3.2)")
 
 Lint
-  ◇ 0 errors, 0 warnings
+  ⚠ nested_structure_needs_subcomposition: <div id="cap0"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap0 t=0s
+    Fix: Move <div id="cap0"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap1"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap1 t=0s
+    Fix: Move <div id="cap1"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap2"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap2 t=0s
+    Fix: Move <div id="cap2"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap3"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap3 t=0s
+    Fix: Move <div id="cap3"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap4"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap4 t=0s
+    Fix: Move <div id="cap4"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap5"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap5 t=0s
+    Fix: Move <div id="cap5"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap6"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap6 t=0s
+    Fix: Move <div id="cap6"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap7"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap7 t=0s
+    Fix: Move <div id="cap7"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap8"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap8 t=0s
+    Fix: Move <div id="cap8"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap9"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap9 t=0s
+    Fix: Move <div id="cap9"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap10"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap10 t=0s
+    Fix: Move <div id="cap10"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap11"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap11 t=0s
+    Fix: Move <div id="cap11"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap12"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap12 t=0s
+    Fix: Move <div id="cap12"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap13"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap13 t=0s
+    Fix: Move <div id="cap13"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap14"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap14 t=0s
+    Fix: Move <div id="cap14"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap15"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap15 t=0s
+    Fix: Move <div id="cap15"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap16"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap16 t=0s
+    Fix: Move <div id="cap16"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap17"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap17 t=0s
+    Fix: Move <div id="cap17"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap18"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap18 t=0s
+    Fix: Move <div id="cap18"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap19"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap19 t=0s
+    Fix: Move <div id="cap19"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap20"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap20 t=0s
+    Fix: Move <div id="cap20"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap21"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap21 t=0s
+    Fix: Move <div id="cap21"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap22"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap22 t=0s
+    Fix: Move <div id="cap22"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap23"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap23 t=0s
+    Fix: Move <div id="cap23"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap24"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap24 t=0s
+    Fix: Move <div id="cap24"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap25"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap25 t=0s
+    Fix: Move <div id="cap25"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap26"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap26 t=0s
+    Fix: Move <div id="cap26"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap27"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap27 t=0s
+    Fix: Move <div id="cap27"> and its contents into a sub-composition file and mount it with data-composition-src.
+  ⚠ nested_structure_needs_subcomposition: <div id="cap28"> is a timeline element that contains nested <div>. The timeline shows one row per top-level element, and the root composition is built only from sub-compositions.
+    /workspace/Kunal-Repository/projects/comp5-reference-edit/index.html #cap28 t=0s
+    Fix: Move <div id="cap28"> and its contents into a sub-composition file and mount it with data-composition-src.
+  0 error(s), 29 warning(s), 0 info(s)
 
 Runtime
   ◇ 0 errors, 0 warnings
@@ -28,9 +115,14 @@ Motion
   ◇ 0 errors, 0 warnings
 
 Contrast
-  ◇ 0/0 text checks pass WCAG AA
+  ◇ 8/8 text checks pass WCAG AA
 
 Snapshots
-  ◇ disabled
+  ◇ 5 PNG(s) saved
+    .hyperframes/artifacts/snapshots/e99905d3-be93-40d1-8033-94d2b6690fcb/frame-00-at-1.1s.png
+    .hyperframes/artifacts/snapshots/e99905d3-be93-40d1-8033-94d2b6690fcb/frame-01-at-8.9s.png
+    .hyperframes/artifacts/snapshots/e99905d3-be93-40d1-8033-94d2b6690fcb/frame-02-at-18.0s.png
+    .hyperframes/artifacts/snapshots/e99905d3-be93-40d1-8033-94d2b6690fcb/frame-03-at-26.9s.png
+    .hyperframes/artifacts/snapshots/e99905d3-be93-40d1-8033-94d2b6690fcb/frame-04-at-31.2s.png
 
 ◇  Check passed

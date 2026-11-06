@@ -5,3 +5,6 @@ renders/
 node_modules/
 transcribe*.log
 transcribe-result.json
+delivery/Comp-5-reference-edit-4K.mp4
+*.log
+__pycache__/

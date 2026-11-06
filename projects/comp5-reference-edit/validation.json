@@ -1,0 +1,20 @@
+{
+  "width": 3840,
+  "height": 2160,
+  "fps": "30000/1001",
+  "full_video_frames": 4425,
+  "full_video_seconds": 147.6475,
+  "caption_cutoff_frame": 934,
+  "caption_cutoff_seconds": 31.164466666666666,
+  "caption_groups": 29,
+  "supplied_words": 79,
+  "presentation_timestamps": "all 4425 frames have unique exact 1001-tick spacing",
+  "decode_timestamps": "strictly increasing",
+  "original_audio_sha256": "65a3f9bc3ccfa7c23ed1d4b5c9b07182e2b97d449b59f7d05ad6552eb568722f",
+  "export_audio_sha256": "65a3f9bc3ccfa7c23ed1d4b5c9b07182e2b97d449b59f7d05ad6552eb568722f",
+  "audio_preserved_exactly": true,
+  "download_parts_verified": true,
+  "all_github_files_under_100_MiB": true,
+  "copied_tail_first_frame_matches_original": true,
+  "full_video_decode_errors": 0
+}
