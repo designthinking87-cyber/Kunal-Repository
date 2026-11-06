@@ -1,0 +1,7 @@
+assets/comp5.mp4
+voice-first31.wav
+renders/
+.hyperframes/
+node_modules/
+transcribe*.log
+transcribe-result.json

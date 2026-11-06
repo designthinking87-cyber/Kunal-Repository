@@ -1,0 +1,15 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {spawnSync} from 'node:child_process';
+const root=path.dirname(fileURLToPath(import.meta.url));
+const caps=JSON.parse(fs.readFileSync(path.join(root,'captions.json'),'utf8'));
+if(!caps.length)throw new Error('Verified captions are required before final export. See README.md.');
+const cutoff=934/(30000/1001);
+for(const c of caps)if(c.end>cutoff+1e-8 || c.start<0 || c.end<=c.start)throw new Error('Caption timing exceeds the authorized range.');
+const run=(command,args)=>{const r=spawnSync(command,args,{cwd:root,stdio:'inherit'});if(r.status!==0)process.exit(r.status||1);};
+fs.mkdirSync(path.join(root,'renders'),{recursive:true});
+run('python',['build.py']);
+run('npx',['--yes','hyperframes@0.8.181','check']);
+run('npx',['--yes','hyperframes@0.8.181','render','--output','renders/visual.mp4','--fps','30000/1001','--quality','high','--workers','2']);
+run('ffmpeg',['-y','-i','renders/visual.mp4','-i','assets/comp5.mp4','-map','0:v:0','-map','1:a:0','-c','copy','-movflags','+faststart','renders/Comp-5-reference-edit-4K.mp4']);
